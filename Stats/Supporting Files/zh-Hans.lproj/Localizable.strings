@@ -71,7 +71,7 @@
 "Logarithmic" = "对数";
 "Fixed scale" = "固定值";
 "Cores" = "核心数";
-"Core" = "核心"; // translategemma:4b
+"Core" = "核心";
 "Settings" = "设置";
 "Name" = "名称";
 "Format" = "格式";
@@ -112,8 +112,8 @@
 "Finish setup" = "完成设置";
 "Welcome to Stats" = "欢迎使用Stats";
 "welcome_message" = "感谢你使用Stats，一个免费的开源macOS菜单栏系统监视器。";
-"Start the application automatically when starting your Mac" = "在启动你的Mac时自动开启应用程序";
-"Do not start the application automatically when starting your Mac" = "在启动你的Mac时不要自动开启应用程序";
+"Start the application automatically when starting your Mac" = "在启动您的Mac时自动开启应用程序";
+"Do not start the application automatically when starting your Mac" = "在启动您的Mac时不要自动开启应用程序";
 "Do everything silently in the background (recommended)" = "在后台静默运行（推荐）";
 "Check for a new version on startup" = "启动时检查新版本";
 "Check for a new version every day (once a day)" = "每天检查一次新版本（一天一次）";
@@ -124,14 +124,14 @@
 "Share anonymous telemetry data" = "分享匿名诊断数据";
 "Do not share anonymous telemetry data" = "不分享匿名诊断数据";
 "The configuration is completed" = "配置完成";
-"finish_setup_message" = "设置完成！Stats是一个开源且永远免费的工具。如果你喜欢它，你可以支持这个项目，非常感谢!";
+"finish_setup_message" = "设置完成！\n Stats是一个开源且永远免费的工具。\n 如果您喜欢它，您可以支持这个项目，非常感谢！";
 
 // Alerts
 "New version available" = "新版本可用";
 "Click to install the new version of Stats" = "点击安装Stats的新版本";
 "Successfully updated" = "更新成功";
 "Stats was updated to v" = "Stats已更新到 v%0";
-"Reset settings text" = "应用程序的所有设置将会被重置，应用程序也将重新启动。你确定要这么做吗？";
+"Reset settings text" = "应用程序的所有设置将被重置，应用程序也将重启。您确定要这么做吗？";
 "Support text" = "感谢您使用Stats！\n\n 维护和改进这个开源项目需要花费时间和资源。您的支持能帮助我们继续给每个人提供这样免费且可靠的应用程序。\n\n如果您觉得Stats对您有帮助，请考虑给我们一份捐助。即使是一点一滴都有很大的帮助！";
 
 // Settings
@@ -141,7 +141,7 @@
 "Close application" = "关闭应用";
 "Open application settings" = "打开应用设置";
 "Open dashboard" = "打开仪表盘";
-"No notifications available in this module" = "该模块不支持通知";
+"No notifications available in this module" = "该模块暂无可用通知";
 "Open Calendar" = "打开日历";
 "Toggle the module" = "切换模块显示";
 
@@ -178,9 +178,9 @@
 "Number of threads" = "%0 线程";
 "Number of e-cores" = "%0 能效核心";
 "Number of p-cores" = "%0 性能核心";
-"Number of s-cores" = "%0 超级核心"; // translategemma:4b
-"Disks" = "磁盘"; // translategemma:4b
-"Display" = "显示"; // translategemma:4b
+"Number of s-cores" = "%0 超级核心";
+"Disks" = "磁盘";
+"Display" = "显示";
 
 // Update
 "The latest version of Stats installed" = "已安装最新版Stats";
@@ -210,7 +210,7 @@
 "Speed widget" = "速度";
 "Battery widget" = "电池";
 "Stack widget" = "叠放";
-"Memory widget" = "容量";
+"Memory widget" = "内存";
 "Static width" = "固定宽度";
 "Tachometer widget" = "转速计";
 "State widget" = "状态";
@@ -222,7 +222,7 @@
 "Color of download" = "下载颜色";
 "Color of upload" = "上传颜色";
 "Monospaced font" = "等宽字体";
-"Reverse order" = "调转顺序";
+"Reverse order" = "反序";
 "Chart history" = "图表统计时长";
 "Default color" = "默认";
 "Transparent when no activity" = "无活动时保持透明";
@@ -242,9 +242,9 @@
 "Widgets" = "小组件";
 "Popup" = "弹出窗口";
 "Notifications" = "通知";
-"Merge widgets" = "合并组件";
+"Merge widgets" = "合并小组件";
 "No available widgets to configure" = "没有可配置的小组件";
-"No options to configure for the popup in this module" = "该组件没有可配置的选项";
+"No options to configure for the popup in this module" = "该模块的弹出窗口没有可配置选项";
 "Process" = "进程";
 "Kill process" = "结束进程";
 "Keyboard shortcut" = "键盘快捷键";
@@ -258,7 +258,7 @@
 "Main chart scaling" = "主图表缩放";
 "Scale value" = "缩放值";
 "Text widget value" = "文本小组件值";
-"Combined processes" = "组合流程"; // translategemma:4b
+"Combined processes" = "组合进程";
 
 // CPU
 "CPU usage" = "CPU占用";
@@ -292,10 +292,10 @@
 "Efficiency cores load" = "能效核心占用";
 "Performance cores load" = "性能核心占用";
 "All cores" = "所有核心";
-"Load per core" = "每核心负载"; // translategemma:4b
-"Efficiency core" = "核心效率"; // translategemma:4b
-"Performance core" = "性能核心"; // translategemma:4b
-"Super core" = "超核心"; // translategemma:4b
+"Load per core" = "每核心负载";
+"Efficiency core" = "能效核心";
+"Performance core" = "性能核心";
+"Super core" = "超级核心";
 
 // GPU
 "GPU to show" = "显示的GPU";
@@ -336,8 +336,8 @@
 "Compressed color" = "被压缩内存颜色";
 "Free color" = "可用内存颜色";
 "Free memory (less than)" = "可用内存（小于）";
-"Swap size" = "已使用交换";
-"Free RAM is" = "可有内存还有 %0";
+"Swap size" = "交换区大小";
+"Free RAM is" = "可用内存还有 %0";
 
 // Disk
 "Show removable disks" = "显示可移动磁盘";
@@ -365,15 +365,15 @@
 "Save the fan speed" = "保存风扇转速";
 "Fan" = "风扇";
 "HID sensors" = "HID 传感器";
-"Synchronize fan's control" = "同步控制风扇";
+"Synchronize fan's control" = "同步风扇控制";
 "Current" = "电流";
 "Energy" = "能耗";
 "Show unknown sensors" = "显示未知传感器";
 "Install fan helper" = "安装风扇控制程序";
 "Uninstall fan helper" = "卸载风扇控制程序";
-"Fan value" = "风扇转数";
+"Fan value" = "风扇转速";
 "Turn off fan" = "禁用风扇";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "你想禁用你的风扇，这可能损害你的Mac。不推荐进行这个操作，你确定要继续吗？";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "你想禁用你的风扇，这可能损坏您的Mac。不推荐进行这个操作，您确定要继续吗？";
 "Sensor threshold" = "传感器阈值";
 "Left fan" = "左侧风扇";
 "Right fan" = "右侧风扇";
@@ -396,29 +396,29 @@
 "Network interface" = "网络接口";
 "Total download" = "总下载";
 "Total upload" = "总上传";
-"Reader type" = "读取器类型";
+"Reader type" = "读取方式";
 "Interface based" = "基于接口";
 "Processes based" = "基于进程";
 "Reset data usage" = "重置用量";
 "VPN mode" = "VPN 模式";
 "Standard" = "标准";
 "Security" = "安全";
-"Channel" = "频道";
+"Channel" = "信道";
 "Common scale" = "统一比例";
 "Autodetection" = "自动检测";
 "Widget activation threshold" = "小组件激活阈值";
-"Internet connection" = "网络连接状态";
+"Internet connection" = "网络连接";
 "Active state color" = "活跃状态颜色";
 "Nonactive state color" = "非活跃状态颜色";
-"Connectivity host" = "连接 Host";
-"Leave empty to disable the check" = "不在该选项内输入以禁用检查";
+"Connectivity host" = "连接主机";
+"Leave empty to disable the check" = "留空以禁用检查";
 "Connectivity history" = "连接历史";
 "Auto-refresh public IP address" = "自动刷新公网IP地址";
 "Every hour" = "每小时";
 "Every 12 hours" = "每12小时";
 "Every 24 hours" = "每24小时";
 "Network activity" = "网络活动";
-"Last reset" = "上次重置于 %0 之前";
+"Last reset" = "上次重置于 %0 前";
 "Latency" = "延迟";
 "Upload speed" = "上传速度";
 "Download speed" = "下载速度";
@@ -430,7 +430,7 @@
 "New IP" = "新IP：%0";
 "Internet connection lost" = "互联网连接丢失";
 "Internet connection established" = "互联网连接已建立";
-"Show country code instead of emoji" = "显示国家代码，而不是表情符号"; // translategemma:4b
+"Show country code instead of emoji" = "显示国家代码，而不是表情符号";
 
 // Battery
 "Level" = "电量";
@@ -461,7 +461,7 @@
 "Percentage and time" = "百分比和时间";
 "Time and percentage" = "时间和百分比";
 "Time format" = "时间格式";
-"Hide additional information when full" = "电池充满后隐藏其他信息";
+"Hide additional information when full" = "电池充满后隐藏附加信息";
 "Last charge" = "最后一次充电";
 "Capacity" = "容量";
 "current / maximum / designed" = "当前容量 / 最大容量 / 设计容量";
@@ -480,12 +480,12 @@
 "Time zone" = "时区";
 "Local" = "本地";
 "Calendar" = "日历";
-"Show week numbers" = "显示周数"; // translategemma:4b
+"Show week numbers" = "显示周数";
 "Local time" = "本地时间";
 "Add new clock" = "添加新时钟";
 "Delete selected clock" = "删除选定的时钟";
 "Help with datetime format" = "日期时间格式帮助";
-"Sync with NTP server" = "与 NTP 服务器同步"; // translategemma:4b
+"Sync with NTP server" = "与 NTP 服务器同步";
 
 // Colors
 "Based on utilization" = "基于利用率";

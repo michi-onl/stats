@@ -61,7 +61,7 @@
 "Dashboard" = "Töölaud";
 "Enabled" = "Lubatud";
 "Disabled" = "Keelatud";
-"Silent" = "Vaigista";
+"Silent" = "Vaikne";
 "Units" = "Ühikud";
 "Fans" = "Ventilaatorid";
 "Scaling" = "Skaleerimine";
@@ -111,11 +111,11 @@
 "Finish" = "Lõpeta";
 "Finish setup" = "Lõpeta seadistamine";
 "Welcome to Stats" = "Tere tulemast Statsi";
-"welcome_message" = "Täname, et kasutate Statsi, tasuta avatud lähtekoodiga macOS-i süsteemimonitor menüüriba jaoks.";
+"welcome_message" = "Täname, et kasutad Statsi, tasuta avatud lähtekoodiga macOS-i süsteemimonitori menüüriba jaoks.";
 "Start the application automatically when starting your Mac" = "Käivita rakendus automaatselt Maci käivitamisel";
 "Do not start the application automatically when starting your Mac" = "Ära käivita rakendust automaatselt Maci käivitamisel";
 "Do everything silently in the background (recommended)" = "Tee kõike vaikselt taustal (soovitatav)";
-"Check for a new version on startup" = "Kontrollige käivitamisel uut versiooni";
+"Check for a new version on startup" = "Kontrolli käivitamisel uut versiooni";
 "Check for a new version every day (once a day)" = "Kontrolli uut versiooni iga päev (üks kord päevas)";
 "Check for a new version every week (once a week)" = "Kontrolli uut versiooni iga nädal (üks kord nädalas)";
 "Check for a new version every month (once a month)" = "Kontrolli uut versiooni iga kuu (üks kord kuus)";
@@ -124,24 +124,24 @@
 "Share anonymous telemetry data" = "Jaga anonüümseid telemeetriaandmeid";
 "Do not share anonymous telemetry data" = "Ära jaga anonüümseid telemeetriaandmeid";
 "The configuration is completed" = "Seadistamine on lõpetatud";
-"finish_setup_message" = "Kõik on paika pandud! \n Stats on avatud lähtekoodiga tööriist, see on tasuta ja jääb alati tasuta. \n Kui teile meeldib, saate projekti toetada, see on alati teretulnud!";
+"finish_setup_message" = "Kõik on paika pandud! \n Stats on avatud lähtekoodiga tööriist, see on tasuta ja jääb alati tasuta. \n Kui sulle meeldib, saad projekti toetada, see on alati teretulnud!";
 
 // Alerts
 "New version available" = "Uus versioon on saadaval";
 "Click to install the new version of Stats" = "Klõpsa Statsi uue versiooni installimiseks";
 "Successfully updated" = "Edukalt värskendatud";
 "Stats was updated to v" = "Stats värskendati versioonile %0";
-"Reset settings text" = "Kõik rakenduse seaded lähtestatakse ja rakendus taaskäivitatakse. Kas olete kindel, et soovite seda teha?";
-"Support text" = "Täname teid Statsi kasutamise eest!\n\n Selle avatud lähtekoodiga projekti hooldamine ja täiustamine nõuab aega ja ressursse. Teie toetus aitab meil jätkuvalt pakkuda kõigile tasuta ja usaldusväärset rakendust.\n\nJa kui Stats on teie arvates kasulik, siis palun kaaluge panuse andmist. Iga väike summa aitab!";
+"Reset settings text" = "Kõik rakenduse seaded lähtestatakse ja rakendus taaskäivitatakse. Kas oled kindel, et soovid seda teha?";
+"Support text" = "Täname sind Statsi kasutamise eest!\n\n Selle avatud lähtekoodiga projekti hooldamine ja täiustamine nõuab aega ja ressursse. Su toetus aitab meil jätkuvalt pakkuda kõigile tasuta ja usaldusväärset rakendust.\n\nJa kui Stats on su arvates kasulik, siis palun kaalu panuse andmist. Iga väike summa aitab!";
 
 // Settings
 "Open Activity Monitor" = "Ava aktiivsusmonitor";
 "Report a bug" = "Teata veast";
-"Support the application" = "Toetage rakendust";
+"Support the application" = "Toeta rakendust";
 "Close application" = "Sule rakendus";
 "Open application settings" = "Ava rakenduse seaded";
 "Open dashboard" = "Ava töölaud";
-"No notifications available in this module" = "Selles moodulis pole saadaval teavitusi.";
+"No notifications available in this module" = "Selles moodulis pole saadaval teavitusi";
 "Open Calendar" = "Ava kalender";
 "Toggle the module" = "Lülita moodul sisse";
 
@@ -162,7 +162,7 @@
 "Reset settings" = "Lähtesta seaded";
 "Pause the Stats" = "Peata Stats";
 "Resume the Stats" = "Jätka Stats";
-"Combined modules" = "Kombineeritud moodulid";
+"Combined modules" = "Ühendatud moodulid";
 "Combined details" = "Ühendatud andmed";
 "Spacing" = "Vahekaugus";
 "Share anonymous telemetry" = "Jaga anonüümset telemeetriat";
@@ -186,7 +186,7 @@
 "The latest version of Stats installed" = "Uusim versioon on installitud";
 "Downloading..." = "Allalaadimine...";
 "Current version: " = "Praegune versioon: ";
-"Latest version: " = "Uusim version: ";
+"Latest version: " = "Uusim versioon: ";
 
 // Widgets
 "Color" = "Värv";
@@ -201,25 +201,25 @@
 "Base" = "Alus";
 "Display mode" = "Kuvarežiim";
 "One row" = "Üks rida";
-"Two rows" = "Kaks read";
+"Two rows" = "Kaks rida";
 "Mini widget" = "Väike vidin";
-"Line chart widget" = "Joonediagramm";
-"Bar chart widget" = "Tulpdiagramm";
-"Pie chart widget" = "Sektordiagramm";
-"Network chart widget" = "Võrgudiagramm";
+"Line chart widget" = "Joonediagrammi vidin";
+"Bar chart widget" = "Tulpdiagrammi vidin";
+"Pie chart widget" = "Sektordiagrammi vidin";
+"Network chart widget" = "Võrgudiagrammi vidin";
 "Speed widget" = "Kiiruse vidin";
 "Battery widget" = "Akuvidin";
-"Stack widget" = "Virnasta vidin";
+"Stack widget" = "Virnastusvidin";
 "Memory widget" = "Mäluvidin";
 "Static width" = "Staatiline laius";
-"Tachometer widget" = "Tahhomeetrividin";
+"Tachometer widget" = "Tahhomeetri vidin";
 "State widget" = "Olekuvidin";
 "Text widget" = "Tekstividin";
 "Battery details widget" = "Aku üksikasjade vidin";
 "Show symbols" = "Näita sümboleid";
 "Label widget" = "Sildividin";
 "Number of reads in the chart" = "Lugemiste arv diagrammil";
-"Color of download" = "Allaladimise värv";
+"Color of download" = "Allalaadimise värv";
 "Color of upload" = "Üleslaadimise värv";
 "Monospaced font" = "Fikseeritud laiusega kirjastiil";
 "Reverse order" = "Vastupidises järjekorras";
@@ -236,7 +236,7 @@
 "Update interval" = "Värskendamise intervall";
 "Usage history" = "Kasutusajalugu";
 "Details" = "Üksikasjad";
-"Top processes" = "Tipp-protsessid";
+"Top processes" = "Tippprotsessid";
 "Pictogram" = "Piktogramm";
 "Module" = "Moodul";
 "Widgets" = "Vidinad";
@@ -255,10 +255,10 @@
 "Update interval for top processes" = "Tipp-protsesside värskendusintervall";
 "Notification level" = "Teavitustase";
 "Chart color" = "Diagrammi värv";
-"Main chart scaling" = "Peamise graafi skaala";
+"Main chart scaling" = "Peamise diagrammi skaala";
 "Scale value" = "Mõõtühiku väärtus";
 "Text widget value" = "Teksti atribuudi väärtus";
-"Combined processes" = "Combined processes";
+"Combined processes" = "Ühendatud protsessid";
 
 // CPU
 "CPU usage" = "CPU kasutus";
@@ -286,16 +286,16 @@
 "Cluster grouping" = "Klastrite rühmitamine";
 "Efficiency cores color" = "Tõhusustuumade värv";
 "Performance cores color" = "Jõudlustuumade värv";
-"Total load" = "Kokku koormus";
+"Total load" = "Kogukoormus";
 "System load" = "Süsteemi koormus";
-"User load" = "Kasutajate koormus";
+"User load" = "Kasutaja koormus";
 "Efficiency cores load" = "Tõhusustuumade koormus";
 "Performance cores load" = "Jõudlustuumade koormus";
 "All cores" = "Kõik tuumad";
 "Load per core" = "Koormus tuuma kohta";
 "Efficiency core" = "Tõhusustuum";
 "Performance core" = "Jõudlustuum";
-"Super core" = "Superjõudlustuum";
+"Super core" = "Supertuum";
 
 // GPU
 "GPU to show" = "GPU, mida näidatakse";
@@ -311,28 +311,28 @@
 "Non active" = "Mitteaktiivne";
 "Fan speed" = "Ventilaatori kiirus";
 "Core clock" = "Tuuma takt";
-"Memory clock" = "Mälu Takt";
+"Memory clock" = "Mälu takt";
 "Utilization" = "Kasutus";
 "Render utilization" = "Renderdamise kasutus";
-"Tiler utilization" = "Osapõhise renderdaja kasutus";
+"Tiler utilization" = "Tileri kasutus";
 "GPU usage threshold" = "GPU kasutuslävi";
 "GPU usage is" = "GPU kasutus on %0";
 
 // RAM
 "Memory usage" = "Mälu kasutus";
-"Memory pressure" = "Mälu surve";
+"Memory pressure" = "Mälusurve";
 "Total" = "Kokku";
 "Used" = "Kasutatud";
 "App" = "Rakendus";
-"Wired" = "Juhtmega";
+"Wired" = "Kinnitatud";
 "Compressed" = "Tihendatud";
 "Free" = "Vaba";
 "Swap" = "Saalemälu";
-"Split the value (App/Wired/Compressed)" = "Jagage väärtus (rakendus/juhtmega/tihendatud)";
+"Split the value (App/Wired/Compressed)" = "Jaga väärtus (rakendus/kinnitatud/tihendatud)";
 "RAM utilization threshold" = "Muutmälu kasutuslävi";
 "RAM utilization is" = "Muutmälu kasutus on %0";
 "App color" = "Rakenduse värv";
-"Wired color" = "Juhtmega värv";
+"Wired color" = "Kinnitatud värv";
 "Compressed color" = "Tihendatud värv";
 "Free color" = "Vaba värv";
 "Free memory (less than)" = "Vaba mälu (vähem kui)";
@@ -341,11 +341,11 @@
 
 // Disk
 "Show removable disks" = "Kuva irdkettad";
-"Used disk memory" = "Kasutatud kettamälu";
-"Free disk memory" = "Vaba kettamälu";
+"Used disk memory" = "%0/%1 kasutatud";
+"Free disk memory" = "%0/%1 vaba";
 "Disk to show" = "Ketas, mida näidata";
 "Open disk" = "Ava ketas";
-"Switch view" = "Vaate vahetamine";
+"Switch view" = "Vaheta vaadet";
 "Disk utilization threshold" = "Ketta kasutuslävi";
 "Disk utilization is" = "Ketta kasutus on %0";
 "Read color" = "Lugemise värv";
@@ -366,19 +366,19 @@
 "Fan" = "Ventilaator";
 "HID sensors" = "HID-andurid";
 "Synchronize fan's control" = "Sünkroniseeri ventilaatori juhtimine";
-"Current" = "Voolutugevus";
+"Current" = "Vool";
 "Energy" = "Energia";
 "Show unknown sensors" = "Näita tundmatuid sensoreid";
-"Install fan helper" = "Installi ventilaatoriabiline";
-"Uninstall fan helper" = "Desinstalli ventilaatoriabiline";
+"Install fan helper" = "Paigalda ventilaatori abiline";
+"Uninstall fan helper" = "Eemalda ventilaatori abiline";
 "Fan value" = "Ventilaatori väärtus";
 "Turn off fan" = "Lülita ventilaator välja";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Te kavatstate lülitada ventilator välja. See ei ole soovitatav tegevus, mis võib kahjustada teie Mac-i. Kas olete kindel, et soovite seda teha?";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Oled lülitamas ventilaatori välja. See ei ole soovitatav tegevus, mis võib kahjustada su Maci. Kas oled kindel, et soovid seda teha?";
 "Sensor threshold" = "Sensori piirväärtus";
-"Left fan" = "Vasak ventilaator";
-"Right fan" = "Parem ventilaator";
-"Fastest fan" = "Kiireim ventilaator";
-"Sensor to show" = "Sensor näitamiseks";
+"Left fan" = "Vasak";
+"Right fan" = "Parem";
+"Fastest fan" = "Kiireim";
+"Sensor to show" = "Näidatav sensor";
 
 // Network
 "Uploading" = "Üleslaadimine";
@@ -390,8 +390,8 @@
 "Refresh" = "Värskenda";
 "Click to copy public IP address" = "Klõpsa avaliku IP-aadressi kopeerimiseks";
 "Click to copy local IP address" = "Klõpsa kohaliku IP-aadressi kopeerimiseks";
-"Click to copy wifi name" = "Klõpsa wifi nime kopeerimiseks";
-"Click to copy mac address" = "MAC-aadressi kopeerimiseks klõpsake";
+"Click to copy wifi name" = "Klõpsa Wi-Fi nime kopeerimiseks";
+"Click to copy mac address" = "Klõpsa MAC-aadressi kopeerimiseks";
 "No connection" = "Ühendus puudub";
 "Network interface" = "Võrguliides";
 "Total download" = "Allalaadimine kokku";
@@ -411,7 +411,7 @@
 "Active state color" = "Aktiivse oleku värv";
 "Nonactive state color" = "Mitteaktiivse oleku värv";
 "Connectivity host" = "Ühendushost";
-"Leave empty to disable the check" = "Kontrolli keelamiseks jätke tühjaks";
+"Leave empty to disable the check" = "Kontrolli keelamiseks jäta tühjaks";
 "Connectivity history" = "Ühenduse ajalugu";
 "Auto-refresh public IP address" = "Avaliku IP-aadressi automaatne värskendamine";
 "Every hour" = "Iga tund";
@@ -419,16 +419,16 @@
 "Every 24 hours" = "Iga 24 tunni järel";
 "Network activity" = "Võrgutegevus";
 "Last reset" = "Viimane lähtestamine %0 tagasi";
-"Latency" = "Latents";
+"Latency" = "Viivitus";
 "Upload speed" = "Üleslaadimise kiirus";
 "Download speed" = "Allalaadimise kiirus";
 "Address" = "Aadress";
-"WiFi network" = "Wifi võrk";
+"WiFi network" = "Wi-Fi võrk";
 "Local IP changed" = "Lokaalne IP-aadress on muutunud";
 "Public IP changed" = "Avalik IP-aadress on muutunud";
 "Previous IP" = "Eelmine IP: %0";
-"New IP" = "Uus IP-aadress: %0";
-"Internet connection lost" = "Internetühendus katkenud";
+"New IP" = "Uus IP: %0";
+"Internet connection lost" = "Internetühendus on katkenud";
 "Internet connection established" = "Internetühendus on loodud";
 "Show country code instead of emoji" = "Näita emoji asemel riigikoodi";
 
@@ -482,10 +482,10 @@
 "Calendar" = "Kalender";
 "Show week numbers" = "Näita nädalanumbreid";
 "Local time" = "Kohalik aeg";
-"Add new clock" = "Lisage uus kell";
+"Add new clock" = "Lisa uus kell";
 "Delete selected clock" = "Kustuta valitud kell";
 "Help with datetime format" = "Abi ajavormingu määramisel";
-"Sync with NTP server" = "Sünkroniseerimine NTP-serveriga";
+"Sync with NTP server" = "Sünkroniseeri NTP-serveriga";
 
 // Colors
 "Based on utilization" = "Põhineb kasutusel";

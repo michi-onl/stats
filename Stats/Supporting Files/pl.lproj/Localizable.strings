@@ -53,15 +53,15 @@
 "Statistics" = "Statystyki";
 "Max" = "Max";
 "Min" = "Min";
-"Reset" = "Zresetować";
+"Reset" = "Resetuj";
 "Alignment" = "Wyrównanie";
 "Left alignment" = "Do lewej";
-"Center alignment" = "Centrum";
+"Center alignment" = "Środek";
 "Right alignment" = "Do prawej";
-"Dashboard" = "Panel kontrolny"; // translategemma:4b
+"Dashboard" = "Przegląd";
 "Enabled" = "Włączone";
 "Disabled" = "Wyłączone";
-"Silent" = "Tryb cichy";
+"Silent" = "Cichy";
 "Units" = "Jednostki";
 "Fans" = "Wentylatory";
 "Scaling" = "Skalowanie";
@@ -71,11 +71,11 @@
 "Logarithmic" = "Logarytmiczne";
 "Fixed scale" = "Stałe";
 "Cores" = "Rdzeni";
-"Core" = "Rdzeń"; // translategemma:4b
+"Core" = "Rdzeń";
 "Settings" = "Ustawienia";
 "Name" = "Nazwa";
 "Format" = "Format";
-"Turn off" = "Wyłączyć";
+"Turn off" = "Wyłącz";
 "Normal" = "Normalny";
 "Warning" = "Ostrzeżenie";
 "Critical" = "Krytyczny";
@@ -89,10 +89,10 @@
 "Read" = "Odczyt";
 "Write" = "Zapis";
 "Frequency" = "Częstotliwość";
-"Save" = "Zapisać";
-"Run" = "Uruchomić";
-"Stop" = "Zatrzymać";
-"Uninstall" = "Odinstalować";
+"Save" = "Zapisz";
+"Run" = "Uruchom";
+"Stop" = "Zatrzymaj";
+"Uninstall" = "Odinstaluj";
 "1 sec" = "1 sek";
 "2 sec" = "2 sek";
 "3 sec" = "3 sek";
@@ -111,7 +111,7 @@
 "Finish" = "Zakończ";
 "Finish setup" = "Zakończ konfigurację";
 "Welcome to Stats" = "Witamy w Stats";
-"welcome_message" = "Dziękujemy za korzystanie ze Stats,\n bezpłatnego monitora systemu macOS o otwartym kodzie źródłowym.";
+"welcome_message" = "Dziękujemy za korzystanie ze Stats, bezpłatnego monitora systemu macOS o otwartym kodzie źródłowym na pasku menu.";
 "Start the application automatically when starting your Mac" = "Uruchomiaj aplikację automatycznie podczas uruchamiania komputera";
 "Do not start the application automatically when starting your Mac" = "Nie uruchamiaj aplikacji automatycznie podczas uruchamiania komputera";
 "Do everything silently in the background (recommended)" = "Rób wszystko w tle (zalecane)";
@@ -140,13 +140,13 @@
 "Support the application" = "Wesprzyj rozwój programu";
 "Close application" = "Zamknij program";
 "Open application settings" = "Otwórz ustawienia";
-"Open dashboard" = "Otwórz dashboard";
+"Open dashboard" = "Otwórz przegląd";
 "No notifications available in this module" = "W tym module nie są dostępne żadne powiadomienia";
 "Open Calendar" = "Otwórz kalendarz";
 "Toggle the module" = "Przełącz moduł";
 
 // Application settings
-"Update application" = "Aktualizuj aplikacje";
+"Update application" = "Aktualizuj aplikację";
 "Check for updates" = "Sprawdzaj aktualizacje";
 "At start" = "Przy uruchomieniu";
 "Once per day" = "Raz dziennie";
@@ -163,10 +163,10 @@
 "Pause the Stats" = "Wstrzymaj Stats";
 "Resume the Stats" = "Wznów Stats";
 "Combined modules" = "Połączone moduły";
-"Combined details" = "Połączone okno";
+"Combined details" = "Połączone szczegóły";
 "Spacing" = "Rozstaw";
 "Share anonymous telemetry" = "Udostępnij anonimową telemetrię";
-"Choose file" = "Wybrać plik";
+"Choose file" = "Wybierz plik";
 "Stress tests" = "Testy obciążeniowe";
 
 // Dashboard
@@ -191,13 +191,13 @@
 // Widgets
 "Color" = "Kolor";
 "Label" = "Etykieta";
-"Box" = "Pudełko"; // translategemma:4b
+"Box" = "Tło";
 "Frame" = "Ramka";
 "Value" = "Wartość";
 "Colorize" = "Kolorowanie";
 "Colorize value" = "Kolorowanie wartości";
 "Additional information" = "Informacja dodatkowa";
-"Reverse values order" = "Zmień kolejność wyświetlania";
+"Reverse values order" = "Odwróć kolejność wartości";
 "Base" = "Podstawa";
 "Display mode" = "Tryb wyświetlania";
 "One row" = "Jeden wiersz";
@@ -225,18 +225,18 @@
 "Reverse order" = "Odwrotna kolejność";
 "Chart history" = "Historia wykresu";
 "Default color" = "Domyślny";
-"Transparent when no activity" = "Przejrzysty gdy nie ma żadnej aktywności";
+"Transparent when no activity" = "Przezroczysty przy braku aktywności";
 "Constant color" = "Stały";
 "Custom..." = "Niestandardowy...";
 
 // Module Kit
 "Open module settings" = "Otwórz ustawienia modułu";
-"Select widget" = "Wybierz %0 widżet";
-"Open widget settings" = "Otwórz ustawienia widgetu";
+"Select widget" = "Wybierz widżet %0";
+"Open widget settings" = "Otwórz ustawienia widżetu";
 "Update interval" = "Interwał odświeżania";
 "Usage history" = "Historia użycia";
 "Details" = "Szczegóły";
-"Top processes" = "Top procesy";
+"Top processes" = "Główne procesy";
 "Pictogram" = "Ikonka";
 "Module" = "Moduł";
 "Widgets" = "Widżety";
@@ -246,19 +246,19 @@
 "No available widgets to configure" = "Brak dostępnych widżetów do konfiguracji";
 "No options to configure for the popup in this module" = "Brak opcji do skonfigurowania dla okienka w tym module";
 "Process" = "Proces";
-"Kill process" = "Zamknąć proces";
+"Kill process" = "Zakończ proces";
 "Keyboard shortcut" = "Skrót klawiszowy";
-"Listening..." = "Oczekuje...";
+"Listening..." = "Nasłuchiwanie...";
 
 // Modules
-"Number of top processes" = "Liczba procesów";
+"Number of top processes" = "Liczba głównych procesów";
 "Update interval for top processes" = "Interwał odświeżania procesów";
 "Notification level" = "Poziom powiadomienia";
 "Chart color" = "Kolor wykresu";
 "Main chart scaling" = "Skalowanie wykresu głównego";
 "Scale value" = "Wartość skali";
 "Text widget value" = "Wartość widżetu tekstowego";
-"Combined processes" = "Zgrupowane procesy";
+"Combined processes" = "Połączone procesy";
 
 // CPU
 "CPU usage" = "Obciążenie procesora";
@@ -269,7 +269,7 @@
 "Idle" = "Nieaktywny";
 "Show usage per core" = "Pokaż obciążenie na rdzeń";
 "Show hyper-threading cores" = "Pokaż rdzenie Hyper-Threading";
-"Split the value (System/User)" = "Podzielić wartość (System/Użytkownik)";
+"Split the value (System/User)" = "Podziel wartość (System/Użytkownik)";
 "Scheduler limit" = "Ograniczenie planisty";
 "Speed limit" = "Ograniczenie prędkości";
 "Average load" = "Średnie obciążenie";
@@ -277,12 +277,12 @@
 "5 minutes" = "5 minut";
 "15 minutes" = "15 minut";
 "CPU usage threshold" = "Próg wykorzystania procesora";
-"CPU usage is" = "Użycie procesora %0";
+"CPU usage is" = "Użycie procesora wynosi %0";
 "Efficiency cores" = "Rdzenie energooszczędne";
 "Performance cores" = "Rdzenie wydajnościowe";
 "System color" = "Kolor systemu";
 "User color" = "Kolor użytkownika";
-"Idle color" = "Nieaktywny kolor";
+"Idle color" = "Kolor bezczynności";
 "Cluster grouping" = "Grupowanie klastrów";
 "Efficiency cores color" = "Kolor rdzeni energooszczędnych";
 "Performance cores color" = "Kolor rdzeni wydajnościowych";
@@ -306,7 +306,7 @@
 "GPU utilization" = "Wykorzystanie GPU";
 "Vendor" = "Producent";
 "Model" = "Model";
-"Status" = "Stan"; // translategemma:4b
+"Status" = "Stan";
 "Active" = "Aktywny";
 "Non active" = "Nieaktywny";
 "Fan speed" = "Prędkość wentylatora";
@@ -316,7 +316,7 @@
 "Render utilization" = "Wykorzystanie rendera";
 "Tiler utilization" = "Wykorzystanie tilera";
 "GPU usage threshold" = "Próg wykorzystania GPU";
-"GPU usage is" = "Użycie GPU %0";
+"GPU usage is" = "Użycie GPU wynosi %0";
 
 // RAM
 "Memory usage" = "Użycie pamięci";
@@ -328,16 +328,16 @@
 "Compressed" = "Skompresowana";
 "Free" = "Wolna";
 "Swap" = "Pamięć wymiany";
-"Split the value (App/Wired/Compressed)" = "Podzielić wartość (Aplikacje/Układowa/Skompresowana)";
+"Split the value (App/Wired/Compressed)" = "Podziel wartość (Aplikacje/Układowa/Skompresowana)";
 "RAM utilization threshold" = "Próg wykorzystania pamięci RAM";
-"RAM utilization is" = "Wykorzystanie pamięci RAM %0";
+"RAM utilization is" = "Wykorzystanie pamięci RAM wynosi %0";
 "App color" = "Kolor aplikacji";
 "Wired color" = "Kolor układowej przestrzeni";
 "Compressed color" = "Kolor skompresowanej przestrzeni";
 "Free color" = "Kolor wolnej przestrzeni";
 "Free memory (less than)" = "Wolna pamięć (mniej niż)";
 "Swap size" = "Rozmiar swap";
-"Free RAM is" = "Wolna pamięć RAM %0";
+"Free RAM is" = "Wolna pamięć RAM wynosi %0";
 
 // Disk
 "Show removable disks" = "Pokaż dyski wymienne";
@@ -347,7 +347,7 @@
 "Open disk" = "Otwórz dysk";
 "Switch view" = "Przełącz widok";
 "Disk utilization threshold" = "Próg wykorzystania dysku";
-"Disk utilization is" = "Wykorzystanie dysku %0";
+"Disk utilization is" = "Wykorzystanie dysku wynosi %0";
 "Read color" = "Kolor odczytu";
 "Write color" = "Kolor zapisu";
 "Disk usage" = "Użycie dysku";
@@ -372,7 +372,7 @@
 "Install fan helper" = "Zainstaluj narzędzie do wentylatora";
 "Uninstall fan helper" = "Odinstaluj narzędzie do wentylatora";
 "Fan value" = "Wartość wentylatora";
-"Turn off fan" = "Wyłączyć wentylator";
+"Turn off fan" = "Wyłącz wentylator";
 "You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Zamierzasz wyłączyć wentylator. To nie jest zalecana czynność, która może spowodować uszkodzenie komputera Mac. Czy na pewno chcesz to zrobić?";
 "Sensor threshold" = "Próg czujnika";
 "Left fan" = "Lewy";
@@ -394,8 +394,8 @@
 "Click to copy mac address" = "Kliknij, aby skopiować adres fizyczny";
 "No connection" = "Brak połączenia";
 "Network interface" = "Interfejs sieciowy";
-"Total download" = "Całkowicie pobrano";
-"Total upload" = "Całkowicie wysłano";
+"Total download" = "Łącznie pobrano";
+"Total upload" = "Łącznie wysłano";
 "Reader type" = "Sposób odczytu";
 "Interface based" = "Interfejs";
 "Processes based" = "Procesy";
@@ -405,7 +405,7 @@
 "Security" = "Szyfrowanie";
 "Channel" = "Kanał";
 "Common scale" = "Wspólna skala";
-"Autodetection" = "Autodetekcja";
+"Autodetection" = "Autowykrywanie";
 "Widget activation threshold" = "Próg aktywacji widżetu";
 "Internet connection" = "Połączenie internetowe";
 "Active state color" = "Kolor stanu aktywnego";
@@ -413,7 +413,7 @@
 "Connectivity host" = "Host łączności";
 "Leave empty to disable the check" = "Pozostaw puste, aby wyłączyć sprawdzanie";
 "Connectivity history" = "Historia łączności";
-"Auto-refresh public IP address" = "Automatyczne odświeżanie adresu IP";
+"Auto-refresh public IP address" = "Automatyczne odświeżanie publicznego adresu IP";
 "Every hour" = "Co godzinę";
 "Every 12 hours" = "Co 12 godzin";
 "Every 24 hours" = "Co 24 godzin";
@@ -423,14 +423,14 @@
 "Upload speed" = "Wysyłka";
 "Download speed" = "Pobranie";
 "Address" = "Adres";
-"WiFi network" = "Sieć WiFi";
-"Local IP changed" = "Lokalny adres IP został zmieniony";
-"Public IP changed" = "Publiczny adres IP został zmieniony";
+"WiFi network" = "Sieć Wi-Fi";
+"Local IP changed" = "Lokalny adres IP się zmienił";
+"Public IP changed" = "Publiczny adres IP się zmienił";
 "Previous IP" = "Poprzedni adres IP: %0";
 "New IP" = "Nowy adres IP: %0";
 "Internet connection lost" = "Utracono połączenie z internetem";
 "Internet connection established" = "Połączenie z internetem zostało przywrócone";
-"Show country code instead of emoji" = "Wyświetl kod kraju zamiast emoji"; // translategemma:4b
+"Show country code instead of emoji" = "Wyświetl kod kraju zamiast emoji";
 
 // Battery
 "Level" = "Poziom naładowania";
@@ -438,7 +438,7 @@
 "AC Power" = "Zasilacz";
 "Battery Power" = "Bateria";
 "Time" = "Czas";
-"Health" = "Zdrowie";
+"Health" = "Kondycja";
 "Amperage" = "Natężenie";
 "Voltage" = "Napięcie";
 "Cycles" = "Liczba cykli";
@@ -465,7 +465,7 @@
 "Last charge" = "Ostatnie ładowanie";
 "Capacity" = "Pojemność";
 "current / maximum / designed" = "aktualna / maksymalna / zaprojektowana";
-"Low power mode" = "Niskie zużycie energii";
+"Low power mode" = "Tryb oszczędzania energii";
 "Percentage inside the icon" = "Procent wewnątrz ikony";
 "Colorize battery" = "Kolorowanie baterii";
 "Charging current" = "Prąd ładowania";
@@ -485,7 +485,7 @@
 "Add new clock" = "Dodaj nowy zegar";
 "Delete selected clock" = "Usuń wybrany zegar";
 "Help with datetime format" = "Pomoc z formatem daty i godziny";
-"Sync with NTP server" = "Synchronizacja z serwerem NTP"; // translategemma:4b
+"Sync with NTP server" = "Synchronizacja z serwerem NTP";
 
 // Colors
 "Based on utilization" = "Na podstawie wykorzystania";
@@ -498,8 +498,8 @@
 "Black" = "Czarny";
 "Gray" = "Szary";
 "Second gray" = "Drugi szary";
-"Dark gray" = "Ciemno szary";
-"Light gray" = "Jasno szary";
+"Dark gray" = "Ciemnoszary";
+"Light gray" = "Jasnoszary";
 "Red" = "Czerwony";
 "Second red" = "Drugi czerwony";
 "Green" = "Zielony";

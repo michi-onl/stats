@@ -16,8 +16,8 @@
 "Open GPU settings" = "GPU-Einstellungen öffnen";
 "RAM" = "RAM";
 "Open RAM settings" = "RAM-Einstellungen öffnen";
-"Disk" = "Festplatte";
-"Open Disk settings" = "Festplatten-Einstellungen öffnen";
+"Disk" = "Laufwerk";
+"Open Disk settings" = "Laufwerk-Einstellungen öffnen";
 "Sensors" = "Sensoren";
 "Open Sensors settings" = "Sensor-Einstellungen öffnen";
 "Network" = "Netzwerk";
@@ -71,7 +71,7 @@
 "Logarithmic" = "Logarithmisch";
 "Fixed scale" = "Fest";
 "Cores" = "Kerne";
-"Core" = "Kern"; // translategemma:4b
+"Core" = "Kern";
 "Settings" = "Einstellungen";
 "Name" = "Name";
 "Format" = "Format";
@@ -111,9 +111,9 @@
 "Finish" = "Fertig";
 "Finish setup" = "Einrichtung abschließen";
 "Welcome to Stats" = "Willkommen bei Stats";
-"welcome_message" = "Vielen Dank, dass Sie Stats verwenden – einen kostenlosen Open-Source-Systemmonitor für Ihre macOS-Menüleiste.";
-"Start the application automatically when starting your Mac" = "Die App automatisch beim Starten Ihres Mac starten";
-"Do not start the application automatically when starting your Mac" = "Die App nicht automatisch beim Starten Ihres Mac starten";
+"welcome_message" = "Danke, dass du Stats verwendest – einen kostenlosen Open-Source-Systemmonitor für die macOS-Menüleiste.";
+"Start the application automatically when starting your Mac" = "App beim Start des Mac automatisch starten";
+"Do not start the application automatically when starting your Mac" = "App beim Start des Mac nicht automatisch starten";
 "Do everything silently in the background (recommended)" = "Alles lautlos im Hintergrund ausführen (empfohlen)";
 "Check for a new version on startup" = "Beim Start nach einer neuen Version suchen";
 "Check for a new version every day (once a day)" = "Täglich nach einer neuen Version suchen (einmal pro Tag)";
@@ -124,20 +124,20 @@
 "Share anonymous telemetry data" = "Anonyme Telemetriedaten teilen";
 "Do not share anonymous telemetry data" = "Keine anonymen Telemetriedaten teilen";
 "The configuration is completed" = "Die Einrichtung ist abgeschlossen";
-"finish_setup_message" = "Alles ist eingerichtet! \n Stats ist ein Open-Source-Tool, das kostenlos ist und immer kostenlos bleiben wird. \n Wenn es Ihnen gefällt, können Sie das Projekt unterstützen – das wird immer geschätzt!";
+"finish_setup_message" = "Alles ist eingerichtet! \n Stats ist ein Open-Source-Tool, das kostenlos ist und immer kostenlos bleiben wird. \n Wenn es dir gefällt, kannst du das Projekt unterstützen – das wird immer geschätzt!";
 
 // Alerts
 "New version available" = "Neue Version verfügbar";
 "Click to install the new version of Stats" = "Klicken, um die neue Version von Stats zu installieren";
 "Successfully updated" = "Erfolgreich aktualisiert";
 "Stats was updated to v" = "Stats wurde auf v%0 aktualisiert";
-"Reset settings text" = "Alle Einstellungen der App werden zurückgesetzt und die App wird neu gestartet. Sind Sie sicher, dass Sie das tun möchten?";
-"Support text" = "Vielen Dank, dass Sie Stats verwenden!\n\n Die Pflege und Verbesserung dieses Open-Source-Projekts erfordert Zeit und Ressourcen. Ihre Unterstützung hilft uns, weiterhin eine kostenlose und zuverlässige App für alle bereitzustellen.\n\nWenn Sie Stats hilfreich finden, erwägen Sie bitte einen Beitrag. Jede Kleinigkeit hilft!";
+"Reset settings text" = "Alle Einstellungen der App werden zurückgesetzt und die App wird neu gestartet. Bist du sicher, dass du das tun möchtest?";
+"Support text" = "Danke, dass du Stats verwendest!\n\n Die Pflege und Verbesserung dieses Open-Source-Projekts erfordert Zeit und Ressourcen. Deine Unterstützung hilft uns, weiterhin eine kostenlose und zuverlässige App für alle bereitzustellen.\n\nWenn du Stats hilfreich findest, denke bitte über eine Spende nach. Jede Unterstützung zählt!";
 
 // Settings
 "Open Activity Monitor" = "Aktivitätsanzeige öffnen";
 "Report a bug" = "Fehler melden";
-"Support the application" = "Die App unterstützen";
+"Support the application" = "App unterstützen";
 "Close application" = "App schließen";
 "Open application settings" = "App-Einstellungen öffnen";
 "Open dashboard" = "Dashboard öffnen";
@@ -178,8 +178,8 @@
 "Number of threads" = "%0 Threads";
 "Number of e-cores" = "%0 Effizienzkerne";
 "Number of p-cores" = "%0 Leistungskerne";
-"Number of s-cores" = "%0 S-Kerne";
-"Disks" = "Festplatten";
+"Number of s-cores" = "%0 Superkerne";
+"Disks" = "Laufwerke";
 "Display" = "Bildschirm";
 
 // Update
@@ -227,7 +227,7 @@
 "Default color" = "Standard";
 "Transparent when no activity" = "Transparent bei Inaktivität";
 "Constant color" = "Konstant";
-"Custom..." = "Benutzerdefiniert...";
+"Custom..." = "Benutzerdefiniert …";
 
 // Module Kit
 "Open module settings" = "Modul-Einstellungen öffnen";
@@ -240,7 +240,7 @@
 "Pictogram" = "Piktogramm";
 "Module" = "Modul";
 "Widgets" = "Widgets";
-"Popup" = "Pop-up"; // translategemma:4b
+"Popup" = "Popup";
 "Notifications" = "Benachrichtigungen";
 "Merge widgets" = "Widgets zusammenführen";
 "No available widgets to configure" = "Keine Widgets zum Konfigurieren verfügbar";
@@ -258,7 +258,7 @@
 "Main chart scaling" = "Hauptdiagramm-Skalierung";
 "Scale value" = "Skalierungswert";
 "Text widget value" = "Text-Widget-Wert";
-"Combined processes" = "Kombinierte Prozesse"; // translategemma:4b
+"Combined processes" = "Kombinierte Prozesse";
 
 // CPU
 "CPU usage" = "CPU-Auslastung";
@@ -277,15 +277,15 @@
 "5 minutes" = "5 Minuten";
 "15 minutes" = "15 Minuten";
 "CPU usage threshold" = "CPU-Auslastungsschwelle";
-"CPU usage is" = "CPU-Auslastung ist %0";
+"CPU usage is" = "CPU-Auslastung beträgt %0";
 "Efficiency cores" = "Effizienzkerne";
 "Performance cores" = "Leistungskerne";
 "System color" = "Systemfarbe";
 "User color" = "Benutzerfarbe";
 "Idle color" = "Leerlauffarbe";
 "Cluster grouping" = "Cluster-Gruppierung";
-"Efficiency cores color" = "Effizienzkerne-Farbe";
-"Performance cores color" = "Leistungskerne-Farbe";
+"Efficiency cores color" = "Effizienzkernfarbe";
+"Performance cores color" = "Leistungskernfarbe";
 "Total load" = "Gesamtlast";
 "System load" = "Systemlast";
 "User load" = "Benutzerlast";
@@ -316,7 +316,7 @@
 "Render utilization" = "Render-Auslastung";
 "Tiler utilization" = "Tiler-Auslastung";
 "GPU usage threshold" = "GPU-Auslastungsschwelle";
-"GPU usage is" = "GPU-Auslastung ist %0";
+"GPU usage is" = "GPU-Auslastung beträgt %0";
 
 // RAM
 "Memory usage" = "Speicherauslastung";
@@ -330,27 +330,27 @@
 "Swap" = "Swap";
 "Split the value (App/Wired/Compressed)" = "Wert aufteilen (App/Reserviert/Komprimiert)";
 "RAM utilization threshold" = "RAM-Auslastungsschwelle";
-"RAM utilization is" = "RAM-Auslastung ist %0";
+"RAM utilization is" = "RAM-Auslastung beträgt %0";
 "App color" = "App-Farbe";
 "Wired color" = "Reserviert-Farbe";
 "Compressed color" = "Komprimiert-Farbe";
 "Free color" = "Frei-Farbe";
 "Free memory (less than)" = "Freier Speicher (weniger als)";
 "Swap size" = "Swap-Größe";
-"Free RAM is" = "Freier RAM ist %0";
+"Free RAM is" = "Freier RAM beträgt %0";
 
 // Disk
 "Show removable disks" = "Wechseldatenträger anzeigen";
 "Used disk memory" = "%0 von %1 belegt";
 "Free disk memory" = "%0 von %1 frei";
-"Disk to show" = "Anzuzeigende Festplatte";
-"Open disk" = "Festplatte öffnen";
+"Disk to show" = "Anzuzeigendes Laufwerk";
+"Open disk" = "Laufwerk öffnen";
 "Switch view" = "Ansicht wechseln";
-"Disk utilization threshold" = "Festplatten-Auslastungsschwelle";
-"Disk utilization is" = "Festplatten-Auslastung ist %0";
-"Read color" = "Lesen-Farbe";
-"Write color" = "Schreiben-Farbe";
-"Disk usage" = "Festplattennutzung";
+"Disk utilization threshold" = "Laufwerk-Auslastungsschwelle";
+"Disk utilization is" = "Laufwerk-Auslastung beträgt %0";
+"Read color" = "Lese-Farbe";
+"Write color" = "Schreib-Farbe";
+"Disk usage" = "Laufwerk-Nutzung";
 "Total read" = "Gelesen gesamt";
 "Total written" = "Geschrieben gesamt";
 "Write speed" = "Schreiben";
@@ -373,7 +373,7 @@
 "Uninstall fan helper" = "Lüfter-Hilfsprogramm deinstallieren";
 "Fan value" = "Lüfterwert";
 "Turn off fan" = "Lüfter ausschalten";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Sie sind dabei, den Lüfter auszuschalten. Dies ist keine empfohlene Aktion und kann Ihren Mac beschädigen. Sind Sie sicher, dass Sie das tun möchten?";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Du bist dabei, den Lüfter auszuschalten. Dies ist nicht empfohlen und kann deinen Mac beschädigen. Bist du sicher, dass du das tun möchtest?";
 "Sensor threshold" = "Sensorschwelle";
 "Left fan" = "Links";
 "Right fan" = "Rechts";
@@ -381,8 +381,8 @@
 "Sensor to show" = "Anzuzeigender Sensor";
 
 // Network
-"Uploading" = "Hochladen"; // translategemma:4b
-"Downloading" = "Herunterladen"; // translategemma:4b
+"Uploading" = "Upload";
+"Downloading" = "Download";
 "Public IP" = "Öffentliche IP";
 "Local IP" = "Lokale IP";
 "Interface" = "Schnittstelle";
@@ -396,7 +396,7 @@
 "Network interface" = "Netzwerkschnittstelle";
 "Total download" = "Download gesamt";
 "Total upload" = "Upload gesamt";
-"Reader type" = "Lesertyp";
+"Reader type" = "Erfassungsmethode";
 "Interface based" = "Schnittstellenbasiert";
 "Processes based" = "Prozessbasiert";
 "Reset data usage" = "Datennutzung zurücksetzen";
@@ -420,8 +420,8 @@
 "Network activity" = "Netzwerkaktivität";
 "Last reset" = "Letzte Zurücksetzung vor %0";
 "Latency" = "Latenz";
-"Upload speed" = "Uploadgeschwindigkeit";
-"Download speed" = "Downloadgeschwindigkeit";
+"Upload speed" = "Upload";
+"Download speed" = "Download";
 "Address" = "Adresse";
 "WiFi network" = "WLAN-Netzwerk";
 "Local IP changed" = "Lokale IP hat sich geändert";
@@ -430,12 +430,12 @@
 "New IP" = "Neue IP: %0";
 "Internet connection lost" = "Internetverbindung unterbrochen";
 "Internet connection established" = "Internetverbindung hergestellt";
-"Show country code instead of emoji" = "Zeige den Landescode anstelle des Emojis"; // translategemma:4b
+"Show country code instead of emoji" = "Ländercode statt Emoji anzeigen";
 
 // Battery
 "Level" = "Ladezustand";
 "Source" = "Quelle";
-"AC Power" = "Netzteil";
+"AC Power" = "Netzbetrieb";
 "Battery Power" = "Batteriebetrieb";
 "Time" = "Zeit";
 "Health" = "Zustand";
@@ -464,13 +464,13 @@
 "Hide additional information when full" = "Zusätzliche Informationen bei voller Ladung ausblenden";
 "Last charge" = "Letzte Ladung";
 "Capacity" = "Kapazität";
-"current / maximum / designed" = "aktuell / maximal / geplant";
+"current / maximum / designed" = "aktuell / maximal / ursprünglich";
 "Low power mode" = "Stromsparmodus";
 "Percentage inside the icon" = "Prozentanzeige im Symbol";
 "Colorize battery" = "Batterie einfärben";
 "Charging current" = "Ladestrom";
 "Charging Voltage" = "Ladespannung";
-"Charger state inside the battery" = "Ladegerätestatus im Batteriesymbol";
+"Charger state inside the battery" = "Ladestatus im Batteriesymbol";
 
 // Bluetooth
 "Battery to show" = "Anzuzeigende Batterie";
@@ -480,12 +480,12 @@
 "Time zone" = "Zeitzone";
 "Local" = "Lokal";
 "Calendar" = "Kalender";
-"Show week numbers" = "Zeige die Wochennummern"; // translategemma:4b
+"Show week numbers" = "Kalenderwochen anzeigen";
 "Local time" = "Ortszeit";
 "Add new clock" = "Neue Uhr hinzufügen";
 "Delete selected clock" = "Ausgewählte Uhr löschen";
 "Help with datetime format" = "Hilfe zum Datums-/Zeitformat";
-"Sync with NTP server" = "Synchronisieren mit NTP-Server"; // translategemma:4b
+"Sync with NTP server" = "Mit NTP-Server synchronisieren";
 
 // Colors
 "Based on utilization" = "Nach Auslastung";

@@ -11,11 +11,11 @@
 
 // Modules
 "CPU" = "المعالج";
-"Open CPU settings" = "إفتح إعدادات المعالج";
+"Open CPU settings" = "فتح إعدادات المعالج";
 "GPU" = "كرت الشاشة";
-"Open GPU settings" = "إفتح إعدادات كرت الشاشة";
+"Open GPU settings" = "فتح إعدادات كرت الشاشة";
 "RAM" = "الرام";
-"Open RAM settings" = "إفتح إعدادات الرام";
+"Open RAM settings" = "فتح إعدادات الرام";
 "Disk" = "القرص";
 "Open Disk settings" = "فتح إعدادات القرص";
 "Sensors" = "الحساسات";
@@ -46,14 +46,14 @@
 "Manual" = "يدوي";
 "None" = "لا شيء";
 "Dots" = "نقاط";
-"Arrows" = "سهم";
+"Arrows" = "أسهم";
 "Characters" = "حروف";
 "Short" = "قصير";
 "Long" = "طويل";
 "Statistics" = "إحصائيات";
 "Max" = "الأقصى";
 "Min" = "الأدنى";
-"Reset" = "إعادة";
+"Reset" = "إعادة تعيين";
 "Alignment" = "المحاذاة";
 "Left alignment" = "يسار";
 "Center alignment" = "وسط";
@@ -69,14 +69,14 @@
 "Square" = "مربع";
 "Cube" = "مكعب";
 "Logarithmic" = "لوغاريتمي";
-"Fixed scale" = "مقاس ثابت";
+"Fixed scale" = "ثابت";
 "Cores" = "نوى";
-"Core" = "الجوهر"; // translategemma:4b
+"Core" = "نواة";
 "Settings" = "الإعدادات";
 "Name" = "الاسم";
 "Format" = "التنسيق";
 "Turn off" = "إيقاف";
-"Normal" = "طبيعي"; // translategemma:4b
+"Normal" = "طبيعي";
 "Warning" = "تحذير";
 "Critical" = "حرج";
 "Usage" = "الاستخدام";
@@ -85,33 +85,33 @@
 "10 minutes" = "10 دقائق";
 "Import" = "استيراد";
 "Export" = "تصدير";
-"Separator" = "فاصل"; // translategemma:4b
-"Read" = "اقرأ"; // translategemma:4b
-"Write" = "اكتب"; // translategemma:4b
-"Frequency" = "التردد"; // translategemma:4b
-"Save" = "حفظ"; // translategemma:4b
-"Run" = "تشغيل"; // translategemma:4b
-"Stop" = "توقف"; // translategemma:4b
-"Uninstall" = "إلغاء التثبيت"; // translategemma:4b
-"1 sec" = "1 ثانية"; // translategemma:4b
-"2 sec" = "2 ثانية"; // translategemma:4b
-"3 sec" = "3 ثانية"; // translategemma:4b
-"5 sec" = "5 ثانية"; // translategemma:4b
-"10 sec" = "10 ثانية"; // translategemma:4b
-"15 sec" = "15 ثانية"; // translategemma:4b
-"30 sec" = "30 ثانية"; // translategemma:4b
-"60 sec" = "60 ثانية"; // translategemma:4b
+"Separator" = "فاصل";
+"Read" = "قراءة";
+"Write" = "كتابة";
+"Frequency" = "التردد";
+"Save" = "حفظ";
+"Run" = "تشغيل";
+"Stop" = "إيقاف";
+"Uninstall" = "إلغاء التثبيت";
+"1 sec" = "1 ثانية";
+"2 sec" = "2 ثانية";
+"3 sec" = "3 ثانية";
+"5 sec" = "5 ثانية";
+"10 sec" = "10 ثانية";
+"15 sec" = "15 ثانية";
+"30 sec" = "30 ثانية";
+"60 sec" = "60 ثانية";
 
 // Setup
-"Stats Setup" = "إعدادات الإحصاءات";
+"Stats Setup" = "إعداد Stats";
 "Previous" = "السابق";
 "Previous page" = "الصفحة السابقة";
 "Next" = "التالي";
 "Next page" = "الصفحة التالية";
 "Finish" = "إنهاء";
 "Finish setup" = "إنهاء الإعداد";
-"Welcome to Stats" = "مرحبًا بك في الإحصاءات";
-"welcome_message" = "شكرًا لاستخدام الإحصاءات، أداة مراقبة نظام macOS المجانية ومفتوحة المصدر لشريط القوائم الخاص بك.";
+"Welcome to Stats" = "مرحبًا بك في Stats";
+"welcome_message" = "شكرًا لاستخدام Stats، أداة مراقبة نظام macOS المجانية ومفتوحة المصدر لشريط القوائم الخاص بك.";
 "Start the application automatically when starting your Mac" = "بدء تشغيل التطبيق تلقائيًا عند بدء تشغيل Mac الخاص بك";
 "Do not start the application automatically when starting your Mac" = "عدم بدء تشغيل التطبيق تلقائيًا عند بدء تشغيل Mac الخاص بك";
 "Do everything silently in the background (recommended)" = "قم بعمل كل شيء بصمت في الخلفية (موصى به)";
@@ -124,15 +124,15 @@
 "Share anonymous telemetry data" = "مشاركة بيانات التشخيص المجهولة";
 "Do not share anonymous telemetry data" = "عدم مشاركة بيانات التشخيص المجهولة";
 "The configuration is completed" = "تم الانتهاء من التكوين";
-"finish_setup_message" = "كل شيء مُعدّ، الإحصاءات هي أداة مفتوحة المصدر، مجانية وستظل دائمًا كذلك. إذا كنت تستمتع بها يمكنك دعم المشروع، دائمًا محل تقدير!";
+"finish_setup_message" = "تم إعداد كل شيء! \n Stats أداة مفتوحة المصدر، مجانية وستظل دائمًا كذلك. \n إذا أعجبتك يمكنك دعم المشروع، دائمًا محل تقدير!";
 
 // Alerts
 "New version available" = "إصدار جديد متاح";
-"Click to install the new version of Stats" = "انقر لتثبيت الإصدار الجديد من الإحصاءات";
+"Click to install the new version of Stats" = "انقر لتثبيت الإصدار الجديد من Stats";
 "Successfully updated" = "تم التحديث بنجاح";
-"Stats was updated to v" = "تم تحديث الإحصاءات إلى الإصدار v%0";
+"Stats was updated to v" = "تم تحديث Stats إلى الإصدار v%0";
 "Reset settings text" = "سيتم إعادة ضبط جميع إعدادات التطبيق وسيتم إعادة تشغيل التطبيق. هل تريد المتابعة؟";
-"Support text" = "شكرًا لك على استخدامك ل Stats! \n\nيستغرق الحفاظ على هذا المشروع مفتوح المصدر وتحسينه وقتًا وموارد. دعمكم يساعدنا على الاستمرار في توفير تطبيق مجاني وموثوق للجميع. كل جزء صغير يساعدنا!";
+"Support text" = "شكرًا لك على استخدامك ل Stats!\n\nيستغرق الحفاظ على هذا المشروع مفتوح المصدر وتحسينه وقتًا وموارد. دعمكم يساعدنا على الاستمرار في توفير تطبيق مجاني وموثوق للجميع.\n\nإذا وجدت أن Stats مفيد، يرجى التفكير في تقديم مساهمة. كل جزء صغير يساعدنا!";
 
 // Settings
 "Open Activity Monitor" = "فتح مراقب النشاط";
@@ -142,8 +142,8 @@
 "Open application settings" = "فتح إعدادات التطبيق";
 "Open dashboard" = "فتح لوحة التحكم";
 "No notifications available in this module" = "لا توجد إشعارات متاحة في هذه الوحدة";
-"Open Calendar" = "فتح التقويم"; // translategemma:4b
-"Toggle the module" = "تشغيل/إيقاف الوحدة."; // translategemma:4b
+"Open Calendar" = "فتح التقويم";
+"Toggle the module" = "تشغيل/إيقاف الوحدة";
 
 // Application settings
 "Update application" = "تحديث التطبيق";
@@ -154,36 +154,36 @@
 "Once per month" = "مرة شهريًا";
 "Never" = "أبدًا";
 "Check for update" = "التحقق من وجود تحديث";
-"Show icon in dock" = "إظهار الرمز في القائمة";
+"Show icon in dock" = "إظهار الرمز في Dock";
 "Start at login" = "بدء التشغيل عند تسجيل الدخول";
-"Build number" = "رقم الإصدار";
-"Import settings" = "استيراد الإعدادات"; // translategemma:4b
-"Export settings" = "إعدادات التصدير"; // translategemma:4b
+"Build number" = "رقم البناء";
+"Import settings" = "استيراد الإعدادات";
+"Export settings" = "تصدير الإعدادات";
 "Reset settings" = "إعادة ضبط الإعدادات";
-"Pause the Stats" = "إيقاف الإحصاءات";
-"Resume the Stats" = "استئناف الإحصاءات";
-"Combined modules" = "الوحدات المجتمعة";
-"Combined details" = "تفاصيل مجمعة"; // translategemma:4b
+"Pause the Stats" = "إيقاف Stats مؤقتًا";
+"Resume the Stats" = "استئناف Stats";
+"Combined modules" = "الوحدات المدمجة";
+"Combined details" = "تفاصيل مجمعة";
 "Spacing" = "التباعد";
 "Share anonymous telemetry" = "مشاركة بيانات التشخيص المجهولة";
-"Choose file" = "اختر الملف"; // translategemma:4b
-"Stress tests" = "اختبارات تحمل الضغط"; // translategemma:4b
+"Choose file" = "اختر الملف";
+"Stress tests" = "اختبارات الإجهاد";
 
 // Dashboard
 "Serial number" = "الرقم التسلسلي";
-"Model identifier" = "معرف النموذج"; // translategemma:4b
-"Production year" = "سنة الإنتاج"; // translategemma:4b
+"Model identifier" = "معرف النموذج";
+"Production year" = "سنة الإنتاج";
 "Uptime" = "وقت التشغيل";
 "Number of cores" = "%0 نوى";
 "Number of threads" = "%0 خيوط";
 "Number of e-cores" = "%0 نوى كفاءة";
 "Number of p-cores" = "%0 نوى أداء";
-"Number of s-cores" = "%0 نوى فائقة الأداء"; // translategemma:4b
-"Disks" = "الأقراص"; // translategemma:4b
-"Display" = "عرض"; // translategemma:4b
+"Number of s-cores" = "%0 نوى خارقة";
+"Disks" = "الأقراص";
+"Display" = "الشاشة";
 
 // Update
-"The latest version of Stats installed" = "تم تثبيت أحدث إصدار من الإحصاءات";
+"The latest version of Stats installed" = "تم تثبيت أحدث إصدار من Stats";
 "Downloading..." = "جار التحميل...";
 "Current version: " = "الإصدار الحالي:  ";
 "Latest version: " = "الإصدار الأحدث:    ";
@@ -207,15 +207,15 @@
 "Bar chart widget" = "مخطط شريطي";
 "Pie chart widget" = "مخطط دائري";
 "Network chart widget" = "مخطط شبكة";
-"Speed widget" = "عداد سرعة";
-"Battery widget" = "عداد بطارية";
-"Stack widget" = "عداد تراكمي";
-"Memory widget" = "عداد ذاكرة";
+"Speed widget" = "سرعة";
+"Battery widget" = "بطارية";
+"Stack widget" = "مكدس";
+"Memory widget" = "ذاكرة";
 "Static width" = "عرض ثابت";
-"Tachometer widget" = "عداد سرعة";
-"State widget" = "عداد حالة";
-"Text widget" = "عنصري نص"; // translategemma:4b
-"Battery details widget" = "وحدة معلومات البطارية"; // translategemma:4b
+"Tachometer widget" = "مقياس";
+"State widget" = "حالة";
+"Text widget" = "عنصر نص";
+"Battery details widget" = "وحدة معلومات البطارية";
 "Show symbols" = "إظهار الرموز";
 "Label widget" = "تسمية";
 "Number of reads in the chart" = "عدد القراءات في المخطط";
@@ -224,14 +224,14 @@
 "Monospaced font" = "خط ذو تساوي المسافات";
 "Reverse order" = "ترتيب عكسي";
 "Chart history" = "مدة المخطط";
-"Default color" = "القيمة الافتراضية"; // translategemma:4b
-"Transparent when no activity" = "شفاف عندما لا يوجد نشاط"; // translategemma:4b
-"Constant color" = "ثابت"; // translategemma:4b
+"Default color" = "افتراضي";
+"Transparent when no activity" = "شفاف عندما لا يوجد نشاط";
+"Constant color" = "ثابت";
 "Custom..." = "مخصص...";
 
 // Module Kit
 "Open module settings" = "فتح إعدادات الوحدة";
-"Select widget" = "اختيار %0 عنصر";
+"Select widget" = "اختيار عنصر %0";
 "Open widget settings" = "فتح إعدادات العنصر";
 "Update interval" = "فاصل التحديث";
 "Usage history" = "سجل الاستخدام";
@@ -247,8 +247,8 @@
 "No options to configure for the popup in this module" = "لا توجد خيارات للتكوين للقائمة المنبثقة في هذه الوحدة";
 "Process" = "عملية";
 "Kill process" = "إيقاف العملية";
-"Keyboard shortcut" = "اختصار لوحة المفاتيح"; // translategemma:4b
-"Listening..." = "الاستماع..."; // translategemma:4b
+"Keyboard shortcut" = "اختصار لوحة المفاتيح";
+"Listening..." = "الاستماع...";
 
 // Modules
 "Number of top processes" = "عدد أعلى العمليات";
@@ -257,8 +257,8 @@
 "Chart color" = "لون المخطط";
 "Main chart scaling" = "تحجيم المخطط الرئيسي";
 "Scale value" = "قيمة المقياس";
-"Text widget value" = "قيمة عنصر واجهة النص"; // translategemma:4b
-"Combined processes" = "عمليات مُجمعة"; // translategemma:4b
+"Text widget value" = "قيمة عنصر واجهة النص";
+"Combined processes" = "عمليات مُجمعة";
 
 // CPU
 "CPU usage" = "استخدام المعالج";
@@ -268,7 +268,7 @@
 "User" = "المستخدم";
 "Idle" = "الخمول";
 "Show usage per core" = "عرض الاستخدام لكل نواة";
-"Show hyper-threading cores" = "عرض نوى التناوب الهجين";
+"Show hyper-threading cores" = "عرض نوى Hyper-Threading";
 "Split the value (System/User)" = "تقسيم القيمة (نظام/مستخدم)";
 "Scheduler limit" = "حد المجدول";
 "Speed limit" = "حد السرعة";
@@ -291,11 +291,11 @@
 "User load" = "حمل المستخدم";
 "Efficiency cores load" = "حمل نوى الكفاءة";
 "Performance cores load" = "حمل نوى الأداء";
-"All cores" = "جميع النواة"; // translategemma:4b
-"Load per core" = "التحميل لكل نواة"; // translategemma:4b
-"Efficiency core" = "التركيز على الكفاءة"; // translategemma:4b
-"Performance core" = "نواة الأداء"; // translategemma:4b
-"Super core" = "نواة قوية"; // translategemma:4b
+"All cores" = "جميع النوى";
+"Load per core" = "الحمل لكل نواة";
+"Efficiency core" = "نواة كفاءة";
+"Performance core" = "نواة أداء";
+"Super core" = "نواة خارقة";
 
 // GPU
 "GPU to show" = "عرض GPU";
@@ -314,7 +314,7 @@
 "Memory clock" = "تردد الذاكرة";
 "Utilization" = "استخدام";
 "Render utilization" = "استخدام الرندر";
-"Tiler utilization" = "استخدام اللوح";
+"Tiler utilization" = "استخدام Tiler";
 "GPU usage threshold" = "عتبة استخدام GPU";
 "GPU usage is" = "استخدام GPU %0";
 
@@ -324,20 +324,20 @@
 "Total" = "الإجمالي";
 "Used" = "المستخدمة";
 "App" = "التطبيق";
-"Wired" = "المسلكة";
+"Wired" = "السلكية";
 "Compressed" = "المضغوطة";
 "Free" = "المتبقية";
 "Swap" = "التبادل";
-"Split the value (App/Wired/Compressed)" = "تقسيم القيمة (تطبيق/مسلكة/مضغوطة)";
+"Split the value (App/Wired/Compressed)" = "تقسيم القيمة (تطبيق/سلكية/مضغوطة)";
 "RAM utilization threshold" = "عتبة استخدام الذاكرة";
 "RAM utilization is" = "استخدام الذاكرة %0";
 "App color" = "لون التطبيق";
-"Wired color" = "لون المسلكة";
+"Wired color" = "لون السلكية";
 "Compressed color" = "لون المضغوطة";
 "Free color" = "لون الذاكرة المتبقية";
 "Free memory (less than)" = "الذاكرة المتبقية (أقل من)";
 "Swap size" = "حجم التبادل";
-"Free RAM is" = "الذاكرة العشوائية المتبقية هي %0";
+"Free RAM is" = "الذاكرة المتبقية %0";
 
 // Disk
 "Show removable disks" = "عرض الأقراص القابلة للإزالة";
@@ -353,10 +353,10 @@
 "Disk usage" = "استخدام القرص";
 "Total read" = "إجمالي القراءة";
 "Total written" = "إجمالي الكتابة";
-"Write speed" = "اكتب"; // translategemma:4b
-"Read speed" = "اقرأ"; // translategemma:4b
-"Drives" = "محركات"; // translategemma:4b
-"SMART data" = "بيانات ذكية"; // translategemma:4b
+"Write speed" = "كتابة";
+"Read speed" = "قراءة";
+"Drives" = "محركات";
+"SMART data" = "بيانات SMART";
 
 // Sensors
 "Temperature unit" = "وحدة الحرارة";
@@ -375,13 +375,13 @@
 "Turn off fan" = "إيقاف تشغيل المروحة";
 "You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "أنت على وشك إيقاف تشغيل المروحة. هذا ليس إجراءً مُوصى به يمكن أن يتسبب في تلف جهازك، هل تريد بالتأكيد القيام بذلك؟";
 "Sensor threshold" = "عتبة المستشعر";
-"Left fan" = "المروحة اليسرى";
-"Right fan" = "المروحة اليمنى";
-"Fastest fan" = "أسرع مروحة";
-"Sensor to show" = "جهاز إشارة"; // translategemma:4b
+"Left fan" = "يسار";
+"Right fan" = "يمين";
+"Fastest fan" = "الأسرع";
+"Sensor to show" = "المستشعر المعروض";
 
 // Network
-"Uploading" = "تحميل";
+"Uploading" = "رفع";
 "Downloading" = "تنزيل";
 "Public IP" = "عنوان IP العام";
 "Local IP" = "عنوان IP المحلي";
@@ -406,7 +406,7 @@
 "Channel" = "قناة";
 "Common scale" = "مقياس شائع";
 "Autodetection" = "الكشف التلقائي";
-"Widget activation threshold" = "عتبة تنشيط الودجة";
+"Widget activation threshold" = "عتبة تنشيط العنصر";
 "Internet connection" = "اتصال بالإنترنت";
 "Active state color" = "لون الحالة النشطة";
 "Nonactive state color" = "لون الحالة غير النشطة";
@@ -420,17 +420,17 @@
 "Network activity" = "نشاط الشبكة";
 "Last reset" = "آخر إعادة تعيين منذ %0";
 "Latency" = "تأخير";
-"Upload speed" = "تحميل"; // translategemma:4b
-"Download speed" = "تنزيل"; // translategemma:4b
-"Address" = "العنوان"; // translategemma:4b
-"WiFi network" = "شبكة Wi-Fi"; // translategemma:4b
-"Local IP changed" = "تغير عنوان IP المحلي"; // translategemma:4b
-"Public IP changed" = "تغير عنوان IP العام."; // translategemma:4b
-"Previous IP" = "عنوان IP السابق: %0"; // translategemma:4b
-"New IP" = "عنوان IP الجديد: %0"; // translategemma:4b
-"Internet connection lost" = "فقدان الاتصال بالإنترنت"; // translategemma:4b
-"Internet connection established" = "تم إنشاء اتصال بالإنترنت"; // translategemma:4b
-"Show country code instead of emoji" = "اعرض رمز الدولة بدلاً من الرموز التعبيرية."; // translategemma:4b
+"Upload speed" = "رفع";
+"Download speed" = "تنزيل";
+"Address" = "العنوان";
+"WiFi network" = "شبكة Wi-Fi";
+"Local IP changed" = "تغير عنوان IP المحلي";
+"Public IP changed" = "تغير عنوان IP العام";
+"Previous IP" = "عنوان IP السابق: %0";
+"New IP" = "عنوان IP الجديد: %0";
+"Internet connection lost" = "فقدان الاتصال بالإنترنت";
+"Internet connection established" = "تم إنشاء اتصال بالإنترنت";
+"Show country code instead of emoji" = "اعرض رمز الدولة بدلاً من الرموز التعبيرية";
 
 // Battery
 "Level" = "المستوى";
@@ -455,8 +455,8 @@
 "High level notification" = "إشعار بالمستوى العالي";
 "Low battery" = "البطارية منخفضة";
 "High battery" = "البطارية مرتفعة";
-"Battery remaining" = "البطارية تبقى %0%";
-"Battery remaining to full charge" = "البطارية تبقى %0% حتى الشحن الكامل";
+"Battery remaining" = "متبقٍ %0%";
+"Battery remaining to full charge" = "%0% حتى الشحن الكامل";
 "Percentage" = "النسبة المئوية";
 "Percentage and time" = "النسبة المئوية والوقت";
 "Time and percentage" = "الوقت والنسبة المئوية";
@@ -468,9 +468,9 @@
 "Low power mode" = "وضع الطاقة المنخفضة";
 "Percentage inside the icon" = "النسبة المئوية داخل الرمز";
 "Colorize battery" = "تلوين البطارية";
-"Charging current" = "تيار الشحن"; // translategemma:4b
-"Charging Voltage" = "جهد الشحن"; // translategemma:4b
-"Charger state inside the battery" = "حالة الشاحن داخل البطارية"; // translategemma:4b
+"Charging current" = "تيار الشحن";
+"Charging Voltage" = "جهد الشحن";
+"Charger state inside the battery" = "حالة الشاحن داخل البطارية";
 
 // Bluetooth
 "Battery to show" = "البطارية المراد عرضها";
@@ -479,21 +479,21 @@
 // Clock
 "Time zone" = "المنطقة الزمنية";
 "Local" = "محلي";
-"Calendar" = "تقويم"; // translategemma:4b
-"Show week numbers" = "عرض أرقام الأسابيع"; // translategemma:4b
-"Local time" = "الوقت المحلي"; // translategemma:4b
-"Add new clock" = "أضف ساعة جديدة"; // translategemma:4b
-"Delete selected clock" = "حذف الساعة المحددة"; // translategemma:4b
-"Help with datetime format" = "مساعدة في تنسيق التاريخ والوقت"; // translategemma:4b
-"Sync with NTP server" = "التزامن مع خادم NTP"; // translategemma:4b
+"Calendar" = "تقويم";
+"Show week numbers" = "عرض أرقام الأسابيع";
+"Local time" = "الوقت المحلي";
+"Add new clock" = "أضف ساعة جديدة";
+"Delete selected clock" = "حذف الساعة المحددة";
+"Help with datetime format" = "مساعدة في تنسيق التاريخ والوقت";
+"Sync with NTP server" = "التزامن مع خادم NTP";
 
 // Colors
 "Based on utilization" = "بناءً على الاستخدام";
 "Based on pressure" = "بناءً على الضغط";
 "Based on cluster" = "بناءً على التجمع";
 "System accent" = "لون النظام";
-"Monochrome accent" = "لون مونوكروم";
-"Clear" = "واضح";
+"Monochrome accent" = "أحادي اللون";
+"Clear" = "شفاف";
 "White" = "أبيض";
 "Black" = "أسود";
 "Gray" = "رمادي";

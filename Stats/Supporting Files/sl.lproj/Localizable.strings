@@ -47,7 +47,7 @@
 "None" = "Nič";
 "Dots" = "Pike";
 "Arrows" = "Puščice";
-"Characters" = "Znaki";
+"Characters" = "Znak";
 "Short" = "Kratek";
 "Long" = "Dolg";
 "Statistics" = "Statistika";
@@ -71,12 +71,12 @@
 "Logarithmic" = "Logaritmično";
 "Fixed scale" = "Fiksna skala";
 "Cores" = "Jedra";
-"Core" = "Osnovna"; // translategemma:4b
+"Core" = "Jedro";
 "Settings" = "Nastavitve";
 "Name" = "Ime";
 "Format" = "Format";
 "Turn off" = "Izklopi";
-"Normal" = "Normal";
+"Normal" = "Normalno";
 "Warning" = "Opozorilo";
 "Critical" = "Kritično";
 "Usage" = "Uporaba";
@@ -89,18 +89,18 @@
 "Read" = "Branje";
 "Write" = "Pisanje";
 "Frequency" = "Frekvenca";
-"Save" = "Shrani"; // translategemma:4b
-"Run" = "Izvedi"; // translategemma:4b
-"Stop" = "Prekli"; // translategemma:4b
-"Uninstall" = "Odstranitev"; // translategemma:4b
-"1 sec" = "1 sekunda"; // translategemma:4b
-"2 sec" = "2 sekunde"; // translategemma:4b
-"3 sec" = "3 sekunde"; // translategemma:4b
-"5 sec" = "5 sekund"; // translategemma:4b
-"10 sec" = "10 sekund"; // translategemma:4b
-"15 sec" = "15 sekund"; // translategemma:4b
-"30 sec" = "30 sekund"; // translategemma:4b
-"60 sec" = "60 sekund"; // translategemma:4b
+"Save" = "Shrani";
+"Run" = "Izvedi";
+"Stop" = "Ustavi";
+"Uninstall" = "Odstrani";
+"1 sec" = "1 sekunda";
+"2 sec" = "2 sekunde";
+"3 sec" = "3 sekunde";
+"5 sec" = "5 sekund";
+"10 sec" = "10 sekund";
+"15 sec" = "15 sekund";
+"30 sec" = "30 sekund";
+"60 sec" = "60 sekund";
 
 // Setup
 "Stats Setup" = "Stats konfigurator";
@@ -111,7 +111,7 @@
 "Finish" = "Zaključek";
 "Finish setup" = "Zaključi konfiguracijo";
 "Welcome to Stats" = "Dobrodošli v Stats";
-"welcome_message" = "Hvala, ker uporabljate Stats, brezplačni odprtokodni sistemski nadzornik sistema macOS za menijsko vrstico.";
+"welcome_message" = "Hvala, ker uporabljaš Stats, brezplačni odprtokodni sistemski nadzornik sistema macOS za menijsko vrstico.";
 "Start the application automatically when starting your Mac" = "Samodejni zagon programa ob zagonu računalnika Mac";
 "Do not start the application automatically when starting your Mac" = "Aplikacije ne zaženi samodejno ob zagonu računalnika Mac";
 "Do everything silently in the background (recommended)" = "Vse izvedi tiho v ozadju (priporočljivo)";
@@ -124,15 +124,15 @@
 "Share anonymous telemetry data" = "Deli anonimne podatke telemetrije";
 "Do not share anonymous telemetry data" = "Ne deli anonimne podatke telemetrije";
 "The configuration is completed" = "Konfiguracija je zaključena";
-"finish_setup_message" = "Vse je pripravljeno! \n Stats je odprtokodno orodje katero je brezplačno in vedno bo. \Če vam je všeč, lahko projekt podprete, kar je vedno dobrodošlo!";
+"finish_setup_message" = "Vse je pripravljeno! \n Stats je odprtokodno orodje, ki je in bo vedno brezplačno. \n Če ti je všeč, lahko projekt podpreš, kar je vedno dobrodošlo!";
 
 // Alerts
 "New version available" = "Na voljo je nova različica";
 "Click to install the new version of Stats" = "Klikni za namestitev nove različice programa Stats";
 "Successfully updated" = "Uspešno posodobljeno";
 "Stats was updated to v" = "Program Stats je bil posodobljen na v%0";
-"Reset settings text" = "Vse nastavitve aplikacije se bodo ponastavile in aplikacija se bo znova zagnala. Ali ste prepričani, da to storiti?";
-"Support text" = "Zahvaljujemo se vam za uporabo Stats!\n\n Vzdrževanje in izboljševanje tega odprtokodnega projekta zahteva čas in sredstva. Vaša podpora nam pomaga še naprej zagotavljati brezplačno in zanesljivo aplikacijo za vsakogar.\n\nČe vam je program Stats koristen, razmislite o prispevku. Vsaka malenkost šteje!";
+"Reset settings text" = "Vse nastavitve aplikacije se bodo ponastavile in aplikacija se bo znova zagnala. Ali si prepričan, da želiš to storiti?";
+"Support text" = "Zahvaljujemo se ti za uporabo Stats!\n\n Vzdrževanje in izboljševanje tega odprtokodnega projekta zahtevata čas in sredstva. Tvoja podpora nam pomaga še naprej zagotavljati brezplačno in zanesljivo aplikacijo za vse.\n\nČe ti je program Stats koristen, razmisli o prispevku. Vsaka malenkost šteje!";
 
 // Settings
 "Open Activity Monitor" = "Odpri monitor dejavnosti";
@@ -141,9 +141,9 @@
 "Close application" = "Zapri aplikacijo";
 "Open application settings" = "Odpri nastavitve aplikacije";
 "Open dashboard" = "Odpri nadzorno ploščo";
-"No notifications available in this module" = "V tem modulu niso na voljo nobena obvestila";
+"No notifications available in this module" = "V tem modulu ni na voljo nobenih obvestil";
 "Open Calendar" = "Odpri koledar";
-"Toggle the module" = "Vklopi/izklopi modul"; // translategemma:4b
+"Toggle the module" = "Vklopi/izklopi modul";
 
 // Application settings
 "Update application" = "Posodobi aplikacijo";
@@ -163,11 +163,11 @@
 "Pause the Stats" = "Začasno zaustavi Stats";
 "Resume the Stats" = "Nadaljuj z izvajanjem Stats";
 "Combined modules" = "Združeni moduli";
-"Combined details" = "Skupni podatki"; // translategemma:4b
+"Combined details" = "Združene podrobnosti";
 "Spacing" = "Razmik";
 "Share anonymous telemetry" = "Deli anonimno telemetrijo";
-"Choose file" = "Izberite datoteko"; // translategemma:4b
-"Stress tests" = "Testiranje na napetost"; // translategemma:4b
+"Choose file" = "Izberi datoteko";
+"Stress tests" = "Stresni testi";
 
 // Dashboard
 "Serial number" = "Serijska številka";
@@ -178,9 +178,9 @@
 "Number of threads" = "%0 niti";
 "Number of e-cores" = "%0 učinkovitih jeder";
 "Number of p-cores" = "%0 performančnih jeder";
-"Number of s-cores" = "%0 odličen procesor"; // translategemma:4b
-"Disks" = "Diskji"; // translategemma:4b
-"Display" = "Prikaz"; // translategemma:4b
+"Number of s-cores" = "%0 super jeder";
+"Disks" = "Diski";
+"Display" = "Prikaz";
 
 // Update
 "The latest version of Stats installed" = "Nameščena je najnovejša različica programa Stats";
@@ -209,13 +209,13 @@
 "Network chart widget" = "Mrežni diagram";
 "Speed widget" = "Hitrost";
 "Battery widget" = "Baterija";
-"Stack widget" = "Struktura"; // translategemma:4b
+"Stack widget" = "Sklad";
 "Memory widget" = "Pomnilnik";
 "Static width" = "Statična širina";
 "Tachometer widget" = "Tahometer";
-"State widget" = "Pripomoček stanja";
-"Text widget" = "Vrsta nadzora besedila"; // translategemma:4b
-"Battery details widget" = "Widget za podrobnosti o bateriji"; // translategemma:4b
+"State widget" = "Stanje";
+"Text widget" = "Besedilo";
+"Battery details widget" = "Podrobnosti baterije";
 "Show symbols" = "Prikaži simbole";
 "Label widget" = "Oznaka";
 "Number of reads in the chart" = "Število branj v grafu";
@@ -236,7 +236,7 @@
 "Update interval" = "Interval posodabljanja";
 "Usage history" = "Zgodovina uporabe";
 "Details" = "Podrobnosti";
-"Top processes" = "Glavni procesi";
+"Top processes" = "Najbolj obremenjeni procesi";
 "Pictogram" = "Piktogram";
 "Module" = "Modul";
 "Widgets" = "Pripomočki";
@@ -248,29 +248,29 @@
 "Process" = "Proces";
 "Kill process" = "Ubij proces";
 "Keyboard shortcut" = "Bližnjica na tipkovnici";
-"Listening..." = "Poslušam..."; // translategemma:4b
+"Listening..." = "Poslušam...";
 
 // Modules
-"Number of top processes" = "Število glavnih procesov";
-"Update interval for top processes" = "Interval posodabljanja za glavne procese";
+"Number of top processes" = "Število najbolj obremenjenih procesov";
+"Update interval for top processes" = "Interval posodabljanja za najbolj obremenjene procese";
 "Notification level" = "Raven za obvestila";
 "Chart color" = "Barva grafa";
 "Main chart scaling" = "Skaliranje glavnega grafa";
 "Scale value" = "Vrednost skale";
-"Text widget value" = "Vrednost komponenta \"Text"; // translategemma:4b
-"Combined processes" = "Skupni postopki"; // translategemma:4b
+"Text widget value" = "Vrednost besedilnega pripomočka";
+"Combined processes" = "Združeni procesi";
 
 // CPU
-"CPU usage" = "CPE poraba";
-"CPU temperature" = "CPE temperatura";
-"CPU frequency" = "CPE frekvenca";
+"CPU usage" = "Poraba CPE";
+"CPU temperature" = "Temperatura CPE";
+"CPU frequency" = "Frekvenca CPE";
 "System" = "Sistem";
 "User" = "Uporabnik";
-"Idle" = "Brez dela";
+"Idle" = "Mirovanje";
 "Show usage per core" = "Prikaži porabo na jedro";
-"Show hyper-threading cores" = "Pokaži hyper-threading jedra";
+"Show hyper-threading cores" = "Prikaži hyper-threading jedra";
 "Split the value (System/User)" = "Razdelitev vrednosti (sistem/uporabnik)";
-"Scheduler limit" = "Omejitev načrtovalca";
+"Scheduler limit" = "Omejitev razporejevalnika";
 "Speed limit" = "Omejitev hitrosti";
 "Average load" = "Povprečna obremenitev";
 "1 minute" = "1 minuta";
@@ -292,17 +292,17 @@
 "Efficiency cores load" = "Obremenitev učinkovitih jeder";
 "Performance cores load" = "Obremenitev performančnih jeder";
 "All cores" = "Vsa jedra";
-"Load per core" = "Za vsako jedro"; // translategemma:4b
-"Efficiency core" = "Osrednja enostavnost"; // translategemma:4b
-"Performance core" = "Osnovna zmogljivost"; // translategemma:4b
-"Super core" = "Odličen os"; // translategemma:4b
+"Load per core" = "Obremenitev na jedro";
+"Efficiency core" = "Učinkovito jedro";
+"Performance core" = "Performančno jedro";
+"Super core" = "Super jedro";
 
 // GPU
 "GPU to show" = "GPE za prikaz";
 "Show GPU type" = "Prikaži vrsto GPE";
 "GPU enabled" = "Omogočen GPE";
 "GPU disabled" = "Onemogočen GPE";
-"GPU temperature" = "GPE temperatura";
+"GPU temperature" = "Temperatura GPE";
 "GPU utilization" = "GPE v uporabi";
 "Vendor" = "Proizvajalec";
 "Model" = "Model";
@@ -313,8 +313,8 @@
 "Core clock" = "Takt jedra";
 "Memory clock" = "Takt pomnilnika";
 "Utilization" = "Uporaba";
-"Render utilization" = "Izkoriščanje renderja";
-"Tiler utilization" = "Uporaba ploščic";
+"Render utilization" = "Uporaba renderja";
+"Tiler utilization" = "Uporaba tilerja";
 "GPU usage threshold" = "Prag uporabe GPE";
 "GPU usage is" = "Uporaba GPE je %0";
 
@@ -324,19 +324,19 @@
 "Total" = "Skupno";
 "Used" = "Porabljen";
 "App" = "Aplikacije";
-"Wired" = "Žični";
+"Wired" = "Wired";
 "Compressed" = "Stisnjen";
 "Free" = "Prost";
 "Swap" = "Swap";
-"Split the value (App/Wired/Compressed)" = "Razdelitev vrednosti (Aplikacijski/Žičen/Stisjen)";
+"Split the value (App/Wired/Compressed)" = "Razdelitev vrednosti (Aplikacije/Wired/Stisnjen)";
 "RAM utilization threshold" = "Prag izkoriščenosti RAM-a";
 "RAM utilization is" = "Izkoriščenost pomnilnika RAM je %0";
 "App color" = "Aplikacijska barva";
-"Wired color" = "Žična barva";
+"Wired color" = "Barva Wired";
 "Compressed color" = "Stisnjena barva";
 "Free color" = "Prosta barva";
 "Free memory (less than)" = "Prosti pomnilnik (manj kot)";
-"Swap size" = "Swap velikost";
+"Swap size" = "Velikost swapa";
 "Free RAM is" = "RAM je prost %0";
 
 // Disk
@@ -353,15 +353,15 @@
 "Disk usage" = "Uporaba diska";
 "Total read" = "Skupaj prebrano";
 "Total written" = "Skupaj zapisano";
-"Write speed" = "Zapisi";
-"Read speed" = "Branja";
+"Write speed" = "Pisanje";
+"Read speed" = "Branje";
 "Drives" = "Pogoni";
-"SMART data" = "Podatki SMART"; // translategemma:4b
+"SMART data" = "Podatki SMART";
 
 // Sensors
 "Temperature unit" = "Enota za temperaturo";
-"Celsius" = "Celzija";
-"Fahrenheit" = "Farenhajt"; // translategemma:4b
+"Celsius" = "Celzij";
+"Fahrenheit" = "Fahrenheit";
 "Save the fan speed" = "Shrani hitrost ventilatorja";
 "Fan" = "Ventilator";
 "HID sensors" = "HID senzorji";
@@ -373,16 +373,16 @@
 "Uninstall fan helper" = "Odstrani pomočnika za ventilatorje";
 "Fan value" = "Vrednost ventilatorja";
 "Turn off fan" = "Izklopi ventilator";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Izklopili boste ventilator. To ni priporočljivo dejanje, saj lahko poškoduje vaš računalnik. Ali ste prepričani, da želite to storiti?";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Izklopil boš ventilator. To ni priporočljivo dejanje, saj lahko poškoduje tvoj računalnik. Ali si prepričan, da želiš to storiti?";
 "Sensor threshold" = "Prag zaznavanja";
-"Left fan" = "Levi ventilator";
-"Right fan" = "Desni ventilator";
-"Fastest fan" = "Najhitrejši ventilator";
+"Left fan" = "Levi";
+"Right fan" = "Desni";
+"Fastest fan" = "Najhitrejši";
 "Sensor to show" = "Senzor za prikaz";
 
 // Network
 "Uploading" = "Oddajanje";
-"Downloading" = "Prenašanje";
+"Downloading" = "Prenos";
 "Public IP" = "Javni IP";
 "Local IP" = "Lokalni IP";
 "Interface" = "Vmesnik";
@@ -390,7 +390,7 @@
 "Refresh" = "Osveži";
 "Click to copy public IP address" = "Klikni za kopiranje javnega IP naslova";
 "Click to copy local IP address" = "Klikni za kopiranje lokalnega IP naslova";
-"Click to copy wifi name" = "Klikni za kopiranje imena WiFi";
+"Click to copy wifi name" = "Klikni za kopiranje imena Wi-Fi";
 "Click to copy mac address" = "Klikni za kopiranje MAC naslova";
 "No connection" = "Ni povezave";
 "Network interface" = "Mrežni vmesnik";
@@ -398,7 +398,7 @@
 "Total upload" = "Skupno oddano";
 "Reader type" = "Tip bralnika";
 "Interface based" = "Na osnovi vmesnika";
-"Processes based" = "Na podlagi procesa";
+"Processes based" = "Na osnovi procesov";
 "Reset data usage" = "Ponastavi porabo podatkov";
 "VPN mode" = "VPN način";
 "Standard" = "Standard";
@@ -423,14 +423,14 @@
 "Upload speed" = "Oddajanje";
 "Download speed" = "Prenos";
 "Address" = "Naslov";
-"WiFi network" = "WiFi omrežje"; // translategemma:4b
-"Local IP changed" = "Lokalni IP naslov se je spremenil"; // translategemma:4b
-"Public IP changed" = "Zunanji IP naslov se je spremenil."; // translategemma:4b
-"Previous IP" = "Prejšnji IP: %0"; // translategemma:4b
-"New IP" = "Novo IP: %0"; // translategemma:4b
-"Internet connection lost" = "Izguba povezave z internetom"; // translategemma:4b
-"Internet connection established" = "Ustanovljena je povezava s spletom"; // translategemma:4b
-"Show country code instead of emoji" = "Prikažite kodo države namesto emotikon."; // translategemma:4b
+"WiFi network" = "Wi-Fi omrežje";
+"Local IP changed" = "Lokalni IP naslov se je spremenil";
+"Public IP changed" = "Javni IP naslov se je spremenil";
+"Previous IP" = "Prejšnji IP: %0";
+"New IP" = "Nov IP: %0";
+"Internet connection lost" = "Izguba povezave z internetom";
+"Internet connection established" = "Povezava z internetom je vzpostavljena";
+"Show country code instead of emoji" = "Prikaži kodo države namesto emotikonov";
 
 // Battery
 "Level" = "Raven";
@@ -461,16 +461,16 @@
 "Percentage and time" = "Odstotek in čas";
 "Time and percentage" = "Čas in odstotek";
 "Time format" = "Časovni format";
-"Hide additional information when full" = "Skrij dodatne informacije, ko je batarija polna";
+"Hide additional information when full" = "Skrij dodatne informacije, ko je baterija polna";
 "Last charge" = "Zadnje polnjenje";
 "Capacity" = "Kapaciteta";
 "current / maximum / designed" = "trenutna / največja / predvidena";
 "Low power mode" = "Način nizke porabe";
 "Percentage inside the icon" = "Odstotek znotraj ikone";
-"Colorize battery" = "Obarvanje baterije";
+"Colorize battery" = "Obarvaj baterijo";
 "Charging current" = "Tok polnjenja";
 "Charging Voltage" = "Napetost polnjenja";
-"Charger state inside the battery" = "Stanje polnila znotraj baterije"; // translategemma:4b
+"Charger state inside the battery" = "Stanje polnilnika znotraj baterije";
 
 // Bluetooth
 "Battery to show" = "Prikaz baterije";
@@ -480,12 +480,12 @@
 "Time zone" = "Časovni pas";
 "Local" = "Lokalno";
 "Calendar" = "Koledar";
-"Show week numbers" = "Prikaži številke tedna"; // translategemma:4b
+"Show week numbers" = "Prikaži številke tedna";
 "Local time" = "Lokalni čas";
-"Add new clock" = "Dodajte novo uro"; // translategemma:4b
-"Delete selected clock" = "Izbrišite izbran uro"; // translategemma:4b
-"Help with datetime format" = "Pomoč pri formiranju datuma in časa"; // translategemma:4b
-"Sync with NTP server" = "Sinhronizacija z NTP strežnikom"; // translategemma:4b
+"Add new clock" = "Dodaj novo uro";
+"Delete selected clock" = "Izbriši izbrano uro";
+"Help with datetime format" = "Pomoč pri formiranju datuma in časa";
+"Sync with NTP server" = "Sinhronizacija z NTP strežnikom";
 
 // Colors
 "Based on utilization" = "Na podlagi uporabe";
@@ -493,7 +493,7 @@
 "Based on cluster" = "Na podlagi gruč";
 "System accent" = "Sistemski poudarek";
 "Monochrome accent" = "Enobarvni poudarek";
-"Clear" = "Jasna";
+"Clear" = "Prozorna";
 "White" = "Bela";
 "Black" = "Črna";
 "Gray" = "Siva";
@@ -514,7 +514,7 @@
 "Second purple" = "Druga vijolična";
 "Brown" = "Rjava";
 "Second brown" = "Druga rjava";
-"Cyan" = "Cian"; // translategemma:4b
+"Cyan" = "Cian";
 "Magenta" = "Magenta";
 "Pink" = "Roza";
 "Teal" = "Teal";

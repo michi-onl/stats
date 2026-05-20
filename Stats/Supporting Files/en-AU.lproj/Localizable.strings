@@ -2,7 +2,7 @@
 //  Localizable.strings
 //  Stats
 //
-//  Created by Will Georges on 15/12/2024.
+//  Created by Serhiy Mytrovtsiy on 27/08/2020.
 //  Using Swift 5.0.
 //  Running on macOS 10.15.
 //
@@ -17,17 +17,17 @@
 "RAM" = "RAM";
 "Open RAM settings" = "Open RAM settings";
 "Disk" = "Disk";
-"Open Disk settings" = "Open disk settings";
+"Open Disk settings" = "Open Disk settings";
 "Sensors" = "Sensors";
-"Open Sensors settings" = "Open sensors settings";
+"Open Sensors settings" = "Open Sensors settings";
 "Network" = "Network";
-"Open Network settings" = "Open network settings";
+"Open Network settings" = "Open Network settings";
 "Battery" = "Battery";
-"Open Battery settings" = "Open battery settings";
+"Open Battery settings" = "Open Battery settings";
 "Bluetooth" = "Bluetooth";
-"Open Bluetooth settings" = "Open bluetooth settings";
+"Open Bluetooth settings" = "Open Bluetooth settings";
 "Clock" = "Clock";
-"Open Clock settings" = "Open clock settings";
+"Open Clock settings" = "Open Clock settings";
 
 // Words
 "Unknown" = "Unknown";
@@ -56,7 +56,7 @@
 "Reset" = "Reset";
 "Alignment" = "Alignment";
 "Left alignment" = "Left";
-"Center alignment" = "Center";
+"Center alignment" = "Centre";
 "Right alignment" = "Right";
 "Dashboard" = "Dashboard";
 "Enabled" = "Enabled";
@@ -390,7 +390,7 @@
 "Refresh" = "Refresh";
 "Click to copy public IP address" = "Click to copy public IP address";
 "Click to copy local IP address" = "Click to copy local IP address";
-"Click to copy wifi name" = "Click to copy WiFi name";
+"Click to copy wifi name" = "Click to copy Wi-Fi name";
 "Click to copy mac address" = "Click to copy MAC address";
 "No connection" = "No connection";
 "Network interface" = "Network interface";
@@ -423,7 +423,7 @@
 "Upload speed" = "Upload";
 "Download speed" = "Download";
 "Address" = "Address";
-"WiFi network" = "WiFi network";
+"WiFi network" = "Wi-Fi network";
 "Local IP changed" = "Local IP has changed";
 "Public IP changed" = "Public IP has changed";
 "Previous IP" = "Previous IP: %0";

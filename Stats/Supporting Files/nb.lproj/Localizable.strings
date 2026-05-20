@@ -18,9 +18,9 @@
 "Open RAM settings" = "Åpne minneinnstillinger";
 "Disk" = "Disk";
 "Open Disk settings" = "Åpne diskinnstillinger";
-"Sensors" = "Sensorer"; // translategemma:4b
+"Sensors" = "Sensorer";
 "Open Sensors settings" = "Åpne sensorinnstillinger";
-"Network" = "Nettverk"; // translategemma:4b
+"Network" = "Nettverk";
 "Open Network settings" = "Åpne nettverksinnstillinger";
 "Battery" = "Batteri";
 "Open Battery settings" = "Åpne batteriinnstillinger";
@@ -52,7 +52,7 @@
 "Long" = "Lang";
 "Statistics" = "Statistikk";
 "Max" = "Maks";
-"Min" = "Mitt"; // translategemma:4b
+"Min" = "Min";
 "Reset" = "Nullstill";
 "Alignment" = "Justering";
 "Left alignment" = "Venstre";
@@ -69,38 +69,38 @@
 "Square" = "Kvadratisk";
 "Cube" = "Kubisk";
 "Logarithmic" = "Logaritmisk";
-"Fixed scale" = "Løst"; // translategemma:4b
+"Fixed scale" = "Fast skala";
 "Cores" = "Kjerner";
-"Core" = "Kjerne"; // translategemma:4b
+"Core" = "Kjerne";
 "Settings" = "Innstillinger";
 "Name" = "Navn";
 "Format" = "Format";
 "Turn off" = "Slå av";
 "Normal" = "Normal";
-"Warning" = "Advarsel"; // translategemma:4b
-"Critical" = "Kritisk"; // translategemma:4b
-"Usage" = "Bruk"; // translategemma:4b
-"2 minutes" = "2 minutter"; // translategemma:4b
-"3 minutes" = "3 minutter"; // translategemma:4b
-"10 minutes" = "10 minutter"; // translategemma:4b
+"Warning" = "Advarsel";
+"Critical" = "Kritisk";
+"Usage" = "Bruk";
+"2 minutes" = "2 minutter";
+"3 minutes" = "3 minutter";
+"10 minutes" = "10 minutter";
 "Import" = "Import";
-"Export" = "Eksport"; // translategemma:4b
-"Separator" = "Skillelinje"; // translategemma:4b
-"Read" = "Les"; // translategemma:4b
-"Write" = "Skriv"; // translategemma:4b
-"Frequency" = "Frekvens"; // translategemma:4b
-"Save" = "Lagre"; // translategemma:4b
-"Run" = "Kjør"; // translategemma:4b
-"Stop" = "Stopp"; // translategemma:4b
-"Uninstall" = "Fjern"; // translategemma:4b
-"1 sec" = "1 sekund"; // translategemma:4b
-"2 sec" = "2 sekunder"; // translategemma:4b
-"3 sec" = "3 sekunder"; // translategemma:4b
-"5 sec" = "5 sek"; // translategemma:4b
-"10 sec" = "10 sek"; // translategemma:4b
-"15 sec" = "15 sek"; // translategemma:4b
-"30 sec" = "30 sek"; // translategemma:4b
-"60 sec" = "60 sek"; // translategemma:4b
+"Export" = "Eksport";
+"Separator" = "Skillelinje";
+"Read" = "Les";
+"Write" = "Skriv";
+"Frequency" = "Frekvens";
+"Save" = "Lagre";
+"Run" = "Kjør";
+"Stop" = "Stopp";
+"Uninstall" = "Fjern";
+"1 sec" = "1 sek";
+"2 sec" = "2 sek";
+"3 sec" = "3 sek";
+"5 sec" = "5 sek";
+"10 sec" = "10 sek";
+"15 sec" = "15 sek";
+"30 sec" = "30 sek";
+"60 sec" = "60 sek";
 
 // Setup
 "Stats Setup" = "Stats-oppsett";
@@ -111,7 +111,7 @@
 "Finish" = "Fullfør";
 "Finish setup" = "Fullfør oppsett";
 "Welcome to Stats" = "Velkommen til Stats";
-"welcome_message" = "Takk for at du bruker Stats, en fritt tilgjengelig systemovervåkningsapp for menylinjen i macOS.";
+"welcome_message" = "Takk for at du bruker Stats, en gratis systemovervåkningsapp med åpen kildekode for menylinjen i macOS.";
 "Start the application automatically when starting your Mac" = "Start applikasjonen automatisk når du starter Mac-en din";
 "Do not start the application automatically when starting your Mac" = "Ikke start applikasjonen automatisk når du starter Mac-en din";
 "Do everything silently in the background (recommended)" = "Gjør alt stille i bakgrunnen (anbefalt)";
@@ -124,7 +124,7 @@
 "Share anonymous telemetry data" = "Del anonyme telemetridata";
 "Do not share anonymous telemetry data" = "Ikke del anonyme telemetridata";
 "The configuration is completed" = "Konfigurasjonen er fullført";
-"finish_setup_message" = "Alt er satt opp! \n Stats er et fritt tilgjengelig verktøy, det er gratis og vil alltid være det. \n Hvis du liker Stats, kan du støtte prosjektet, det settes veldig pris på!";
+"finish_setup_message" = "Alt er satt opp! \n Stats er et verktøy med åpen kildekode, det er gratis og vil alltid være det. \n Hvis du liker Stats, kan du støtte prosjektet — det settes alltid stor pris på!";
 
 // Alerts
 "New version available" = "Ny versjon tilgjengelig";
@@ -132,7 +132,7 @@
 "Successfully updated" = "Oppdateringen var vellykket";
 "Stats was updated to v" = "Stats ble oppdatert til v%0";
 "Reset settings text" = "Alle innstillinger vil bli nullstilt og applikasjonen vil starte på nytt. Er du sikker på at du vil gjøre dette?";
-"Support text" = "Takk for at du bruker Stats!\n\nDet krever tid og ressurser å vedlikeholde og forbedre dette åpen kildekode-prosjektet. Din støtte hjelper oss med å fortsette å tilby et gratis og pålitelig program for alle. Hvis du synes Stats er nyttig, kan du vurdere å gi et bidrag. Hver eneste lille bit hjelper!";
+"Support text" = "Takk for at du bruker Stats!\n\nDet krever tid og ressurser å vedlikeholde og forbedre dette åpen kildekode-prosjektet. Din støtte hjelper oss med å fortsette å tilby et gratis og pålitelig program for alle.\n\nHvis du synes Stats er nyttig, kan du vurdere å gi et bidrag. Hver eneste lille bit hjelper!";
 
 // Settings
 "Open Activity Monitor" = "Åpne Aktivitetsmonitor";
@@ -141,9 +141,9 @@
 "Close application" = "Lukk programmet";
 "Open application settings" = "Åpne programinnstillinger";
 "Open dashboard" = "Åpne dashboard";
-"No notifications available in this module" = "Ingen varsler er tilgjengelige i dette modulen"; // translategemma:4b
-"Open Calendar" = "Åpne kalender"; // translategemma:4b
-"Toggle the module" = "Aktiver/deaktiver modulen"; // translategemma:4b
+"No notifications available in this module" = "Ingen varsler er tilgjengelige i dette modulen";
+"Open Calendar" = "Åpne kalender";
+"Toggle the module" = "Aktiver/deaktiver modulen";
 
 // Application settings
 "Update application" = "Oppdater programmet";
@@ -157,36 +157,36 @@
 "Show icon in dock" = "Vis ikon i dock";
 "Start at login" = "Start ved innlogging";
 "Build number" = "Byggnummer";
-"Import settings" = "Importinnstillinger"; // translategemma:4b
-"Export settings" = "Eksportinnstillinger"; // translategemma:4b
+"Import settings" = "Importer innstillinger";
+"Export settings" = "Eksporter innstillinger";
 "Reset settings" = "Nullstill innstillinger";
 "Pause the Stats" = "Sett Stats på pause";
 "Resume the Stats" = "Gjenoppta Stats";
 "Combined modules" = "Kombinerte moduler";
-"Combined details" = "Samlet informasjon"; // translategemma:4b
+"Combined details" = "Samlet informasjon";
 "Spacing" = "Mellomrom";
 "Share anonymous telemetry" = "Del anonyme telemetridata";
-"Choose file" = "Velg fil"; // translategemma:4b
-"Stress tests" = "Stress-tester"; // translategemma:4b
+"Choose file" = "Velg fil";
+"Stress tests" = "Stresstester";
 
 // Dashboard
 "Serial number" = "Serienummer";
-"Model identifier" = "Modell-identifikator"; // translategemma:4b
-"Production year" = "Produksjonsår"; // translategemma:4b
+"Model identifier" = "Modellidentifikator";
+"Production year" = "Produksjonsår";
 "Uptime" = "Oppetid";
 "Number of cores" = "%0 kjerner";
 "Number of threads" = "%0 tråder";
 "Number of e-cores" = "%0 effektivitetskjerner";
 "Number of p-cores" = "%0 ytelseskjerner";
-"Number of s-cores" = "%0 superkjerner"; // translategemma:4b
-"Disks" = "Disker"; // translategemma:4b
-"Display" = "Visning"; // translategemma:4b
+"Number of s-cores" = "%0 superkjerner";
+"Disks" = "Disker";
+"Display" = "Visning";
 
 // Update
 "The latest version of Stats installed" = "Du har den nyeste versjonen av Stats";
 "Downloading..." = "Laster ned...";
 "Current version: " = "Nåværende versjon: ";
-"Latest version: " = "Nyeste version: ";
+"Latest version: " = "Nyeste versjon: ";
 
 // Widgets
 "Color" = "Farge";
@@ -198,7 +198,7 @@
 "Colorize value" = "Fargelegg verdi";
 "Additional information" = "Tilleggsinformasjon";
 "Reverse values order" = "Reverser rekkefølge på verdier";
-"Base" = "Grunn"; // translategemma:4b
+"Base" = "Grunn";
 "Display mode" = "Visningsmodus";
 "One row" = "En rad";
 "Two rows" = "To rader";
@@ -206,16 +206,16 @@
 "Line chart widget" = "Linjediagram";
 "Bar chart widget" = "Søylediagram";
 "Pie chart widget" = "Kakediagram";
-"Network chart widget" = "Linjediagram";
-"Speed widget" = "Tall";
+"Network chart widget" = "Nettverksdiagram";
+"Speed widget" = "Hastighet";
 "Battery widget" = "Batteri";
-"Stack widget" = "Bunke";
-"Memory widget" = "Tall";
+"Stack widget" = "Stabel";
+"Memory widget" = "Minne";
 "Static width" = "Statisk bredde";
-"Tachometer widget" = "Hastometer"; // translategemma:4b
-"State widget" = "Tilstandsdiagram";
-"Text widget" = "Tekstfelt"; // translategemma:4b
-"Battery details widget" = "Widget for batteriinformasjon"; // translategemma:4b
+"Tachometer widget" = "Turteller";
+"State widget" = "Tilstand";
+"Text widget" = "Tekstfelt";
+"Battery details widget" = "Widget for batteriinformasjon";
 "Show symbols" = "Vis symboler";
 "Label widget" = "Merkelapp";
 "Number of reads in the chart" = "Antall avlesninger i diagrammet";
@@ -223,10 +223,10 @@
 "Color of upload" = "Farge for opplasting";
 "Monospaced font" = "Skrifttype med fast bredde";
 "Reverse order" = "Reversert rekkefølge";
-"Chart history" = "Grafhistorikk"; // translategemma:4b
-"Default color" = "Standard"; // translategemma:4b
-"Transparent when no activity" = "Transparent når det ikke er noen aktivitet"; // translategemma:4b
-"Constant color" = "Konstant"; // translategemma:4b
+"Chart history" = "Diagramhistorikk";
+"Default color" = "Standard";
+"Transparent when no activity" = "Transparent når det ikke er noen aktivitet";
+"Constant color" = "Konstant";
 "Custom..." = "Tilpasset...";
 
 // Module Kit
@@ -240,25 +240,25 @@
 "Pictogram" = "Piktogram";
 "Module" = "Modul";
 "Widgets" = "Widgeter";
-"Popup" = "Pop-up"; // translategemma:4b
+"Popup" = "Pop-up";
 "Notifications" = "Varsler";
-"Merge widgets" = "Slå sammen diagrammer";
-"No available widgets to configure" = "Ingen tilgjengelige diagrammer å konfigurere";
+"Merge widgets" = "Slå sammen widgeter";
+"No available widgets to configure" = "Ingen tilgjengelige widgeter å konfigurere";
 "No options to configure for the popup in this module" = "Ingen innstillinger å konfigurere for popup-en i denne modulen";
-"Process" = "Prosess"; // translategemma:4b
-"Kill process" = "Avslutt prosessen"; // translategemma:4b
-"Keyboard shortcut" = "Tastatursnarvei"; // translategemma:4b
-"Listening..." = "Lytt..."; // translategemma:4b
+"Process" = "Prosess";
+"Kill process" = "Avslutt prosessen";
+"Keyboard shortcut" = "Tastatursnarvei";
+"Listening..." = "Lytter...";
 
 // Modules
-"Number of top processes" = "Antall topp-prosesser";
-"Update interval for top processes" = "Oppdateringsintervall for topp-prosesser";
+"Number of top processes" = "Antall toppprosesser";
+"Update interval for top processes" = "Oppdateringsintervall for toppprosesser";
 "Notification level" = "Varslingsnivå";
 "Chart color" = "Diagramfarge";
-"Main chart scaling" = "Hovedskala for diagrammet"; // translategemma:4b
-"Scale value" = "Skalaverdi"; // translategemma:4b
-"Text widget value" = "Verdi for tekstfelt"; // translategemma:4b
-"Combined processes" = "Kombinerte prosesser"; // translategemma:4b
+"Main chart scaling" = "Hovedskala for diagrammet";
+"Scale value" = "Skalaverdi";
+"Text widget value" = "Verdi for tekstfelt";
+"Combined processes" = "Kombinerte prosesser";
 
 // CPU
 "CPU usage" = "CPU-bruk";
@@ -271,13 +271,13 @@
 "Show hyper-threading cores" = "Vis hyper-threading-kjerner";
 "Split the value (System/User)" = "Del verdien (System/Bruker)";
 "Scheduler limit" = "Grense for tidsplanlegger";
-"Speed limit" = "Fartsgrense";
+"Speed limit" = "Hastighetsgrense";
 "Average load" = "Gjennomsnittsbelastning";
 "1 minute" = "1 minutt";
 "5 minutes" = "5 minutter";
 "15 minutes" = "15 minutter";
 "CPU usage threshold" = "CPU-bruksgrense";
-"CPU usage is" = "CPU-bruk er %0";
+"CPU usage is" = "CPU-bruken er %0";
 "Efficiency cores" = "Effektivitetskjerner";
 "Performance cores" = "Ytelseskjerner";
 "System color" = "Systemfarge";
@@ -286,16 +286,16 @@
 "Cluster grouping" = "Klyngegruppering";
 "Efficiency cores color" = "Farge på effektivitetskjerner";
 "Performance cores color" = "Farge på ytelseskjerner";
-"Total load" = "Total last"; // translategemma:4b
-"System load" = "Systembelastning"; // translategemma:4b
-"User load" = "Brukerbelastning"; // translategemma:4b
-"Efficiency cores load" = "Effektivitetskerner laster"; // translategemma:4b
-"Performance cores load" = "Ytelseskjerner lastes"; // translategemma:4b
-"All cores" = "Alle kjerner"; // translategemma:4b
-"Load per core" = "Last per kjerne"; // translategemma:4b
-"Efficiency core" = "Kjerne for effektivitet"; // translategemma:4b
-"Performance core" = "Ytelseskjerne"; // translategemma:4b
-"Super core" = "Ekstremt kraftig"; // translategemma:4b
+"Total load" = "Total belastning";
+"System load" = "Systembelastning";
+"User load" = "Brukerbelastning";
+"Efficiency cores load" = "Effektivitetskjernebelastning";
+"Performance cores load" = "Ytelseskjernebelastning";
+"All cores" = "Alle kjerner";
+"Load per core" = "Belastning per kjerne";
+"Efficiency core" = "Effektivitetskjerne";
+"Performance core" = "Ytelseskjerne";
+"Super core" = "Superkjerne";
 
 // GPU
 "GPU to show" = "GPU å vise";
@@ -314,7 +314,7 @@
 "Memory clock" = "Minneklokke";
 "Utilization" = "Bruk";
 "Render utilization" = "Renderbruk";
-"Tiler utilization" = "Rutebruk";
+"Tiler utilization" = "Tiler-bruk";
 "GPU usage threshold" = "GPU-bruksgrense";
 "GPU usage is" = "GPU-bruk er %0";
 
@@ -323,62 +323,62 @@
 "Memory pressure" = "Minnebelastning";
 "Total" = "Totalt";
 "Used" = "Brukt";
-"App" = "Programmer";
+"App" = "App";
 "Wired" = "Opptatt";
 "Compressed" = "Komprimert";
 "Free" = "Ledig";
 "Swap" = "Swap";
-"Split the value (App/Wired/Compressed)" = "Del verdien (Programmer/Opptatt/Komprimert)";
+"Split the value (App/Wired/Compressed)" = "Del verdien (App/Opptatt/Komprimert)";
 "RAM utilization threshold" = "RAM-bruksgrense";
 "RAM utilization is" = "RAM-bruk er %0";
-"App color" = "App-farge";
-"Wired color" = "Bundet farge";
-"Compressed color" = "Komprimert farge";
-"Free color" = "Ledig farge";
-"Free memory (less than)" = "Gratis minne (mindre enn)"; // translategemma:4b
-"Swap size" = "Byttes størrelse"; // translategemma:4b
-"Free RAM is" = "Gratis RAM er %0"; // translategemma:4b
+"App color" = "Appfarge";
+"Wired color" = "Opptattfarge";
+"Compressed color" = "Komprimertfarge";
+"Free color" = "Ledigfarge";
+"Free memory (less than)" = "Ledig minne (mindre enn)";
+"Swap size" = "Swapstørrelse";
+"Free RAM is" = "Ledig RAM er %0";
 
 // Disk
-"Show removable disks" = "Vis utløsbare disker";
-"Used disk memory" = "Brukte %0 fra %1";
-"Free disk memory" = "Ledig %0 fra %1";
+"Show removable disks" = "Vis flyttbare disker";
+"Used disk memory" = "%0 av %1 brukt";
+"Free disk memory" = "%0 av %1 ledig";
 "Disk to show" = "Disker å vise";
 "Open disk" = "Åpne disken";
 "Switch view" = "Bytt visning";
-"Disk utilization threshold" = "Disk-bruksgrense";
-"Disk utilization is" = "Disk-bruk er %0";
+"Disk utilization threshold" = "Diskbruksgrense";
+"Disk utilization is" = "Diskbruken er %0";
 "Read color" = "Lesefarge";
 "Write color" = "Skrivefarge";
 "Disk usage" = "Diskbruk";
-"Total read" = "Total lest"; // translategemma:4b
-"Total written" = "Totalt skrevet"; // translategemma:4b
-"Write speed" = "Skriv"; // translategemma:4b
-"Read speed" = "Les"; // translategemma:4b
-"Drives" = "Drives";
-"SMART data" = "SMART-data"; // translategemma:4b
+"Total read" = "Total lest";
+"Total written" = "Totalt skrevet";
+"Write speed" = "Skriv";
+"Read speed" = "Les";
+"Drives" = "Stasjoner";
+"SMART data" = "SMART-data";
 
 // Sensors
-"Temperature unit" = "Temperaturenhet";
+"Temperature unit" = "Temperatur-enhet";
 "Celsius" = "Celsius";
 "Fahrenheit" = "Fahrenheit";
-"Save the fan speed" = "Lagre viftehastighet";
+"Save the fan speed" = "Lagre viftehastigheten";
 "Fan" = "Vifte";
 "HID sensors" = "HID-sensorer";
 "Synchronize fan's control" = "Synkroniser viftekontroll";
-"Current" = "Nåværende";
+"Current" = "Strøm";
 "Energy" = "Energi";
 "Show unknown sensors" = "Vis ukjente sensorer";
 "Install fan helper" = "Installer viftehjelper";
 "Uninstall fan helper" = "Avinstaller viftehjelper";
 "Fan value" = "Vifteverdi";
 "Turn off fan" = "Slå av viften";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Du slå nå av viften. Dette er en ikke-anbefalt handling som kan skade Mac-en din, er du sikker på at vil gjøre dette?";
-"Sensor threshold" = "Sensortilstand"; // translategemma:4b
-"Left fan" = "Venstre"; // translategemma:4b
-"Right fan" = "Riktig"; // translategemma:4b
-"Fastest fan" = "Raskest"; // translategemma:4b
-"Sensor to show" = "Sensor for å vise"; // translategemma:4b
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Du er i ferd med å slå av viften. Dette er en ikke-anbefalt handling som kan skade Mac-en din. Er du sikker på at du vil gjøre dette?";
+"Sensor threshold" = "Sensorterskel";
+"Left fan" = "Venstre";
+"Right fan" = "Høyre";
+"Fastest fan" = "Raskeste";
+"Sensor to show" = "Sensor å vise";
 
 // Network
 "Uploading" = "Opplasting";
@@ -386,8 +386,8 @@
 "Public IP" = "Offentlig IP";
 "Local IP" = "Lokal IP";
 "Interface" = "Grensesnitt";
-"Physical address" = "Fysisk addresse";
-"Refresh" = "Oppfrisk";
+"Physical address" = "Fysisk adresse";
+"Refresh" = "Oppdater";
 "Click to copy public IP address" = "Klikk for å kopiere offentlig IP-adresse";
 "Click to copy local IP address" = "Klikk for å kopiere lokal IP-adresse";
 "Click to copy wifi name" = "Klikk for å kopiere nettverksnavn";
@@ -400,37 +400,37 @@
 "Interface based" = "Grensesnitt";
 "Processes based" = "Prosess";
 "Reset data usage" = "Nullstill databruk";
-"VPN mode" = "VPN-modues";
+"VPN mode" = "VPN-modus";
 "Standard" = "Standard";
 "Security" = "Sikkerhet";
 "Channel" = "Kanal";
 "Common scale" = "Vanlig skala";
 "Autodetection" = "Automatisk deteksjon";
-"Widget activation threshold" = "Statistikkaktiveringsgrense";
+"Widget activation threshold" = "Widget-aktiveringsgrense";
 "Internet connection" = "Internett-tilkobling";
 "Active state color" = "Aktiv statusfarge";
 "Nonactive state color" = "Inaktiv statusfarge";
 "Connectivity host" = "Tilkoblingsvert";
 "Leave empty to disable the check" = "La stå tom for å deaktivere sjekken";
 "Connectivity history" = "Tilkoblingshistorikk";
-"Auto-refresh public IP address" = "Auto-oppfrisk offentlig IP-adresse";
+"Auto-refresh public IP address" = "Auto-oppdater offentlig IP-adresse";
 "Every hour" = "Hver time";
 "Every 12 hours" = "Hver 12. time";
 "Every 24 hours" = "Hver 24. time";
 "Network activity" = "Nettverksaktivitet";
 "Last reset" = "Sist nullstilt %0 siden";
-"Latency" = "Forsinkelse"; // translategemma:4b
-"Upload speed" = "Last opp"; // translategemma:4b
-"Download speed" = "Last ned"; // translategemma:4b
-"Address" = "Adresse"; // translategemma:4b
-"WiFi network" = "WiFi-nettverk"; // translategemma:4b
-"Local IP changed" = "Den lokale IP-adressen har endret seg."; // translategemma:4b
-"Public IP changed" = "Den offentlige IP-adressen har endret seg."; // translategemma:4b
-"Previous IP" = "Tidligere IP-adresse: %0"; // translategemma:4b
-"New IP" = "Ny IP: %0"; // translategemma:4b
-"Internet connection lost" = "Internett-tilkoblingen er tapt."; // translategemma:4b
-"Internet connection established" = "Internett-tilkobling etablert"; // translategemma:4b
-"Show country code instead of emoji" = "Vis landekode i stedet for emoji"; // translategemma:4b
+"Latency" = "Forsinkelse";
+"Upload speed" = "Last opp";
+"Download speed" = "Last ned";
+"Address" = "Adresse";
+"WiFi network" = "WiFi-nettverk";
+"Local IP changed" = "Den lokale IP-adressen har endret seg.";
+"Public IP changed" = "Den offentlige IP-adressen har endret seg.";
+"Previous IP" = "Tidligere IP-adresse: %0";
+"New IP" = "Ny IP: %0";
+"Internet connection lost" = "Internett-tilkoblingen er tapt.";
+"Internet connection established" = "Internett-tilkobling etablert";
+"Show country code instead of emoji" = "Vis landekode i stedet for emoji";
 
 // Battery
 "Level" = "Nivå";
@@ -448,7 +448,7 @@
 "Is charging" = "Lader";
 "Time to discharge" = "Tid på å bruke opp";
 "Time to charge" = "Tid på å lade";
-"Calculating" = "Kalkulerer";
+"Calculating" = "Beregner";
 "Fully charged" = "Fullstendig ladet";
 "Not connected" = "Ikke koblet til";
 "Low level notification" = "Varsling ved lavt nivå";
@@ -461,16 +461,16 @@
 "Percentage and time" = "Prosent og tid";
 "Time and percentage" = "Tid og prosent";
 "Time format" = "Tidsformat";
-"Hide additional information when full" = "Skjul ekstra information når fulladet";
+"Hide additional information when full" = "Skjul ekstra informasjon når fulladet";
 "Last charge" = "Siste lading";
 "Capacity" = "Kapasitet";
-"current / maximum / designed" = "current / maksimum / tiltenkt";
-"Low power mode" = "Lav energi-modus";
+"current / maximum / designed" = "Nåværende / maksimum / tiltenkt";
+"Low power mode" = "Lavenergi-modus";
 "Percentage inside the icon" = "Prosent inne i ikonet";
 "Colorize battery" = "Fargelegg batteri";
-"Charging current" = "Lade-strøm"; // translategemma:4b
-"Charging Voltage" = "Ladevoltat"; // translategemma:4b
-"Charger state inside the battery" = "Tilstand for laderen inne i batteriet"; // translategemma:4b
+"Charging current" = "Ladestrøm";
+"Charging Voltage" = "Ladespenning";
+"Charger state inside the battery" = "Tilstand for laderen inne i batteriet";
 
 // Bluetooth
 "Battery to show" = "Batteri å vise";
@@ -479,13 +479,13 @@
 // Clock
 "Time zone" = "Tidssone";
 "Local" = "Lokal";
-"Calendar" = "Kalender"; // translategemma:4b
-"Show week numbers" = "Vis ukenummer"; // translategemma:4b
-"Local time" = "Lokal tid"; // translategemma:4b
-"Add new clock" = "Legg til ny klokke"; // translategemma:4b
-"Delete selected clock" = "Slett valgt klokke"; // translategemma:4b
-"Help with datetime format" = "Hjelp med formatering av dato og klokkeslett"; // translategemma:4b
-"Sync with NTP server" = "Synkroniser med NTP-server"; // translategemma:4b
+"Calendar" = "Kalender";
+"Show week numbers" = "Vis ukenummer";
+"Local time" = "Lokal tid";
+"Add new clock" = "Legg til ny klokke";
+"Delete selected clock" = "Slett valgt klokke";
+"Help with datetime format" = "Hjelp med formatering av dato og klokkeslett";
+"Sync with NTP server" = "Synkroniser med NTP-server";
 
 // Colors
 "Based on utilization" = "Basert på bruk";
@@ -493,7 +493,7 @@
 "Based on cluster" = "Basert på klynge";
 "System accent" = "Systemaksent";
 "Monochrome accent" = "Ensfarget aksent";
-"Clear" = "Blank";
+"Clear" = "Gjennomsiktig";
 "White" = "Hvit";
 "Black" = "Svart";
 "Gray" = "Grå";

@@ -27,7 +27,7 @@
 "Bluetooth" = "블루투스";
 "Open Bluetooth settings" = "블루투스 설정 열기";
 "Clock" = "시계";
-"Open Clock settings" = "시계 설정 ";
+"Open Clock settings" = "시계 설정 열기";
 
 // Words
 "Unknown" = "알 수 없음";
@@ -61,7 +61,7 @@
 "Dashboard" = "대시보드";
 "Enabled" = "사용";
 "Disabled" = "사용 안 함";
-"Silent" = "조용하게";
+"Silent" = "무음";
 "Units" = "단위";
 "Fans" = "팬";
 "Scaling" = "스케일";
@@ -85,14 +85,14 @@
 "10 minutes" = "10분";
 "Import" = "불러오기";
 "Export" = "내보내기";
-"Separator" = "분리"; // translategemma:4b
-"Read" = "읽기"; // translategemma:4b
+"Separator" = "구분자";
+"Read" = "읽기";
 "Write" = "쓰기";
-"Frequency" = "빈도"; // translategemma:4b
-"Save" = "저장"; // translategemma:4b
-"Run" = "실행"; // translategemma:4b
-"Stop" = "중지"; // translategemma:4b
-"Uninstall" = "제거"; // translategemma:4b
+"Frequency" = "주파수";
+"Save" = "저장";
+"Run" = "실행";
+"Stop" = "중지";
+"Uninstall" = "제거";
 "1 sec" = "1초";
 "2 sec" = "2초";
 "3 sec" = "3초";
@@ -124,7 +124,7 @@
 "Share anonymous telemetry data" = "익명 사용정보를 공유합니다";
 "Do not share anonymous telemetry data" = "익명 사용정보를 공유하지 않습니다";
 "The configuration is completed" = "설정이 완료되었습니다";
-"finish_setup_message" = "모든 것이 설정되었습니다! \n Stats는 무료 오픈 소스 도구이며 앞으로도 그럴 것입니다. \n 이 애플리케이션이 마음에 드셨다면 프로젝트를 후원 하실 수 있습니다. 늘 감사합니다!";
+"finish_setup_message" = "모든 것이 설정되었습니다! \n Stats는 무료 오픈 소스 도구이며 앞으로도 그럴 것입니다. \n 이 애플리케이션이 마음에 드신다면 프로젝트를 후원하실 수 있습니다. 항상 감사합니다!";
 
 // Alerts
 "New version available" = "새로운 버전을 이용할 수 있습니다";
@@ -162,12 +162,12 @@
 "Reset settings" = "설정 초기화";
 "Pause the Stats" = "Stats 일시정지";
 "Resume the Stats" = "Stats 재개";
-"Combined modules" = "전체 모듈";
-"Combined details" = "전체 세부 정보";
+"Combined modules" = "통합 모듈";
+"Combined details" = "통합 세부 정보";
 "Spacing" = "간격";
 "Share anonymous telemetry" = "익명 사용정보 공유";
 "Choose file" = "파일 선택";
-"Stress tests" = "스트레스 테스트 진행하기";
+"Stress tests" = "스트레스 테스트";
 
 // Dashboard
 "Serial number" = "일련 번호";
@@ -212,21 +212,21 @@
 "Stack widget" = "스택 위젯";
 "Memory widget" = "메모리 위젯";
 "Static width" = "너비 고정";
-"Tachometer widget" = "반원 도표";
+"Tachometer widget" = "타코미터";
 "State widget" = "상태 위젯";
 "Text widget" = "텍스트 위젯";
 "Battery details widget" = "배터리 세부 정보 위젯";
 "Show symbols" = "기호 표시";
 "Label widget" = "레이블 위젯";
-"Number of reads in the chart" = "도표 행 크기";
+"Number of reads in the chart" = "차트 데이터 개수";
 "Color of download" = "다운로드 색상";
 "Color of upload" = "업로드 색상";
 "Monospaced font" = "고정폭 서체";
-"Reverse order" = "역순"; // translategemma:4b
-"Chart history" = "차트 기록"; // translategemma:4b
-"Default color" = "기본값"; // translategemma:4b
-"Transparent when no activity" = "활동이 없을 때 투명하게 표시"; // translategemma:4b
-"Constant color" = "상수"; // translategemma:4b
+"Reverse order" = "역순";
+"Chart history" = "차트 기록";
+"Default color" = "기본값";
+"Transparent when no activity" = "활동이 없을 때 투명하게 표시";
+"Constant color" = "고정 색상";
 "Custom..." = "사용자 지정...";
 
 // Module Kit
@@ -257,8 +257,8 @@
 "Chart color" = "도표 색상";
 "Main chart scaling" = "메인 차트 스케일";
 "Scale value" = "스케일 값";
-"Text widget value" = "텍스트 위젯 값"; // translategemma:4b
-"Combined processes" = "통합된 프로세스"; // translategemma:4b
+"Text widget value" = "텍스트 위젯 값";
+"Combined processes" = "통합된 프로세스";
 
 // CPU
 "CPU usage" = "CPU 사용량";
@@ -277,7 +277,7 @@
 "5 minutes" = "5분";
 "15 minutes" = "15분";
 "CPU usage threshold" = "CPU 사용량 임계값";
-"CPU usage is" = "CPU 사용량 %0";
+"CPU usage is" = "CPU 사용량이 %0";
 "Efficiency cores" = "효율 코어";
 "Performance cores" = "성능 코어";
 "System color" = "시스템 색상";
@@ -314,13 +314,13 @@
 "Memory clock" = "메모리 클럭";
 "Utilization" = "사용률";
 "Render utilization" = "렌더 사용률";
-"Tiler utilization" = "타일 사용률";
+"Tiler utilization" = "타일러 사용률";
 "GPU usage threshold" = "GPU 사용량 임계값";
-"GPU usage is" = "GPU 사용량 %0";
+"GPU usage is" = "GPU 사용량이 %0";
 
 // RAM
 "Memory usage" = "메모리 사용량";
-"Memory pressure" = "메모리 부하";
+"Memory pressure" = "메모리 압박";
 "Total" = "전체";
 "Used" = "사용";
 "App" = "앱";
@@ -330,14 +330,14 @@
 "Swap" = "스왑";
 "Split the value (App/Wired/Compressed)" = "값 분할 (앱/연결됨/압축됨)";
 "RAM utilization threshold" = "RAM 사용률 임계값";
-"RAM utilization is" = "RAM 사용률 %0";
+"RAM utilization is" = "RAM 사용률이 %0";
 "App color" = "앱 색상";
 "Wired color" = "연결됨 색상";
 "Compressed color" = "압축됨 색상";
 "Free color" = "여유 색상";
 "Free memory (less than)" = "여유 메모리 (설정값 아래로 떨어졌을 때)";
-"Swap size" = "스왑 크기"; // translategemma:4b
-"Free RAM is" = "여유 메모리 %0";
+"Swap size" = "스왑 크기";
+"Free RAM is" = "여유 메모리가 %0";
 
 // Disk
 "Show removable disks" = "이동식 디스크 표시";
@@ -347,16 +347,16 @@
 "Open disk" = "디스크 열기";
 "Switch view" = "보기 전환";
 "Disk utilization threshold" = "디스크 사용률 임계값";
-"Disk utilization is" = "디스크 사용률 %0";
+"Disk utilization is" = "디스크 사용률이 %0";
 "Read color" = "읽기 색상";
 "Write color" = "쓰기 색상";
 "Disk usage" = "디스크 사용량";
 "Total read" = "총 읽기";
 "Total written" = "총 쓰기";
-"Write speed" = "쓰기 속도";
-"Read speed" = "읽기 속도";
-"Drives" = "드라이브"; // translategemma:4b
-"SMART data" = "SMART 데이터"; // translategemma:4b
+"Write speed" = "쓰기";
+"Read speed" = "읽기";
+"Drives" = "드라이브";
+"SMART data" = "SMART 데이터";
 
 // Sensors
 "Temperature unit" = "온도 단위";
@@ -374,7 +374,7 @@
 "Fan value" = "팬 값";
 "Turn off fan" = "팬 끄기";
 "You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "팬을 끄려고 합니다. 팬을 끄는 행위는 Mac을 손상시킬 수 있으므로 권장하지 않습니다. 정말 팬을 끄겠습니까?";
-"Sensor threshold" = "센서 임계값"; // translategemma:4b
+"Sensor threshold" = "센서 임계값";
 "Left fan" = "왼쪽 팬";
 "Right fan" = "오른쪽 팬";
 "Fastest fan" = "가장 빠른 팬";
@@ -390,7 +390,7 @@
 "Refresh" = "새로고침";
 "Click to copy public IP address" = "공개 IP 주소를 복사하려면 클릭하세요";
 "Click to copy local IP address" = "로컬 IP 주소를 복사하려면 클릭하세요";
-"Click to copy wifi name" = "WIFI 이름을 복사하려면 클릭하세요";
+"Click to copy wifi name" = "Wi-Fi 이름을 복사하려면 클릭하세요";
 "Click to copy mac address" = "MAC 주소를 복사하려면 클릭하세요";
 "No connection" = "연결되지 않음";
 "Network interface" = "네트워크 인터페이스";
@@ -422,14 +422,14 @@
 "Latency" = "레이턴시";
 "Upload speed" = "업로드 속도";
 "Download speed" = "다운로드 속도";
-"Address" = "주소"; // translategemma:4b
+"Address" = "주소";
 "WiFi network" = "WiFi 네트워크";
-"Local IP changed" = "로컬 IP 주소가 변경되었습니다."; // translategemma:4b
-"Public IP changed" = "공개 IP 주소가 변경되었습니다."; // translategemma:4b
-"Previous IP" = "이전 IP: %0"; // translategemma:4b
-"New IP" = "새 IP: %0"; // translategemma:4b
-"Internet connection lost" = "인터넷 연결이 끊김"; // translategemma:4b
-"Internet connection established" = "인터넷 연결 완료"; // translategemma:4b
+"Local IP changed" = "로컬 IP 주소가 변경되었습니다.";
+"Public IP changed" = "공개 IP 주소가 변경되었습니다.";
+"Previous IP" = "이전 IP: %0";
+"New IP" = "새 IP: %0";
+"Internet connection lost" = "인터넷 연결이 끊김";
+"Internet connection established" = "인터넷 연결 완료";
 "Show country code instead of emoji" = "이모티콘 대신 국가 코드 표시하기";
 
 // Battery
@@ -468,9 +468,9 @@
 "Low power mode" = "저전력 모드";
 "Percentage inside the icon" = "아이콘 속에 백분율";
 "Colorize battery" = "배터리 색상 표시";
-"Charging current" = "충전 전류"; // translategemma:4b
-"Charging Voltage" = "충전 전압"; // translategemma:4b
-"Charger state inside the battery" = "배터리 내부 충전 상태"; // translategemma:4b
+"Charging current" = "충전 전류";
+"Charging Voltage" = "충전 전압";
+"Charger state inside the battery" = "배터리 내부 충전 상태";
 
 // Bluetooth
 "Battery to show" = "표시할 배터리";
@@ -479,13 +479,13 @@
 // Clock
 "Time zone" = "시간대";
 "Local" = "현지 시각";
-"Calendar" = "달력"; // translategemma:4b
-"Show week numbers" = "주차 번호 표시"; // translategemma:4b
-"Local time" = "현지 시간"; // translategemma:4b
-"Add new clock" = "새로운 시계 추가"; // translategemma:4b
-"Delete selected clock" = "선택된 시계 삭제"; // translategemma:4b
-"Help with datetime format" = "datetime 형식에 대한 도움"; // translategemma:4b
-"Sync with NTP server" = "NTP 서버와 동기화"; // translategemma:4b
+"Calendar" = "달력";
+"Show week numbers" = "주차 번호 표시";
+"Local time" = "현지 시간";
+"Add new clock" = "새로운 시계 추가";
+"Delete selected clock" = "선택된 시계 삭제";
+"Help with datetime format" = "datetime 형식에 대한 도움";
+"Sync with NTP server" = "NTP 서버와 동기화";
 
 // Colors
 "Based on utilization" = "사용률 기준";
@@ -513,7 +513,7 @@
 "Purple" = "보라";
 "Second purple" = "두 번째 보라";
 "Brown" = "갈색";
-"Second brown" = "두번 째 갈색";
+"Second brown" = "두 번째 갈색";
 "Cyan" = "시안";
 "Magenta" = "마젠타";
 "Pink" = "분홍";

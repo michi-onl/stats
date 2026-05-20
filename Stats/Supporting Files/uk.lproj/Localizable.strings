@@ -33,7 +33,7 @@
 "Unknown" = "Невідомо";
 "Version" = "Версія";
 "Processor" = "Процесор";
-"Memory" = "Память";
+"Memory" = "Пам'ять";
 "Graphics" = "Графіка";
 "Close" = "Закрити";
 "Download" = "Завантажити";
@@ -44,21 +44,21 @@
 "No" = "Ні";
 "Automatic" = "Автоматичний";
 "Manual" = "Ручний";
-"None" = "Ніяка";
+"None" = "Немає";
 "Dots" = "Пункти";
 "Arrows" = "Стрілки";
 "Characters" = "Літери";
 "Short" = "Короткий";
 "Long" = "Довгий";
 "Statistics" = "Статистика";
-"Max" = "Мін.";
-"Min" = "Макс.";
+"Max" = "Макс.";
+"Min" = "Мін.";
 "Reset" = "Скинути";
 "Alignment" = "Вирівнювання";
 "Left alignment" = "Ліворуч";
 "Center alignment" = "По центру";
 "Right alignment" = "Праворуч";
-"Dashboard" = "Головний екран"; // translategemma:4b
+"Dashboard" = "Дашборд";
 "Enabled" = "Включено";
 "Disabled" = "Виключено";
 "Silent" = "Безшумно";
@@ -77,7 +77,7 @@
 "Format" = "Формат";
 "Turn off" = "Вимкнути";
 "Normal" = "Нормальний";
-"Warning" = "Попереджнння";
+"Warning" = "Попередження";
 "Critical" = "Критичний";
 "Usage" = "Використання";
 "2 minutes" = "2 хвилини";
@@ -110,29 +110,29 @@
 "Next page" = "Наступна сторінка";
 "Finish" = "Завершити";
 "Finish setup" = "Завершити налаштування";
-"Welcome to Stats" = "Вітаю в Stats";
-"welcome_message" = "Дякуємо, що використовуєте Stats, безкоштовним моніторингом системи macOS з відкритим кодом.";
+"Welcome to Stats" = "Ласкаво просимо до Stats";
+"welcome_message" = "Дякуємо, що використовуєте Stats — безкоштовний моніторинг системи macOS з відкритим кодом для вашого рядка меню.";
 "Start the application automatically when starting your Mac" = "Запускати програму автоматично під час запуску Mac";
 "Do not start the application automatically when starting your Mac" = "Не запускати програму автоматично під час запуску Mac";
 "Do everything silently in the background (recommended)" = "Робити усе у фоновому режимі (рекомендовано)";
-"Check for a new version on startup" = "Перевірти наявність нової версії під час запуску програми";
+"Check for a new version on startup" = "Перевірити наявність нової версії під час запуску програми";
 "Check for a new version every day (once a day)" = "Щодня перевіряти наявність нової версії (один раз на день)";
 "Check for a new version every week (once a week)" = "Щотижня перевіряти наявність нової версії (раз на тиждень)";
 "Check for a new version every month (once a month)" = "Перевіряти наявність нової версії щомісяця (раз на місяць)";
 "Never check for updates (not recommended)" = "Ніколи не перевіряти наявність оновлень (не рекомендовано)";
 "Anonymous telemetry for better development decisions" = "Анонімна телеметрія для кращих рішень щодо програми";
 "Share anonymous telemetry data" = "Ділитись анонімними даними телеметрії";
-"Do not share anonymous telemetry data" = "Не передавати анонімні дані телеметрії";
+"Do not share anonymous telemetry data" = "Не ділитися анонімними даними телеметрії";
 "The configuration is completed" = "Налаштування завершено";
-"finish_setup_message" = "Все налаштовано! \n Stats — це інструмент з відкритим вихідним кодом, він безкоштовний і таким завжди буде. \n Якщо вам це подобається ви можете підтримати проект, це завжди цінується!";
+"finish_setup_message" = "Все налаштовано! \n Stats — це інструмент з відкритим кодом, він безкоштовний і завжди таким залишатиметься. \n Якщо вам подобається програма, ви можете підтримати проект, це завжди цінується!";
 
 // Alerts
 "New version available" = "Доступна нова версія";
-"Click to install the new version of Stats" = "Натисніть щоб встановити нову версію Stats";
-"Successfully updated" = "Успішно оновленно";
+"Click to install the new version of Stats" = "Натисніть, щоб встановити нову версію Stats";
+"Successfully updated" = "Успішно оновлено";
 "Stats was updated to v" = "Stats оновлено до v%0";
 "Reset settings text" = "Усі налаштування програми буде скинуто, і програма буде перезапущена. Ви впевнені, що хочете це зробити?";
-"Support text" = "Дякуємо за використання Stats!\n\n Підтримка і вдосконалення цього проекту з відкритим вихідним кодом вимагає часу і ресурсів. Ваша підтримка допомагає нам продовжувати надавати безкоштовну і надійну програму для всіх.\n\nЯкщо ви вважаєте Stats корисною, будь ласка, зробіть свій внесок. Кожна копійка допомагає!";
+"Support text" = "Дякуємо за використання Stats!\n\n Підтримка і вдосконалення цього проекту з відкритим кодом потребують часу і ресурсів. Ваша підтримка допомагає нам і надалі надавати безкоштовну та надійну програму для всіх.\n\nЯкщо ви вважаєте Stats корисною, будь ласка, зробіть свій внесок. Кожна копійка допомагає!";
 
 // Settings
 "Open Activity Monitor" = "Відкрити Монітор активності";
@@ -140,22 +140,22 @@
 "Support the application" = "Підтримати програму";
 "Close application" = "Закрити програму";
 "Open application settings" = "Відкрити налаштування";
-"Open dashboard" = "Відкрити dashboard";
+"Open dashboard" = "Відкрити дашборд";
 "No notifications available in this module" = "У цьому модулі немає повідомлень";
 "Open Calendar" = "Відкрити календар";
-"Toggle the module" = "Перемкніть модуль";
+"Toggle the module" = "Перемкнути модуль";
 
 // Application settings
 "Update application" = "Оновити програму";
-"Check for updates" = "Перевіряти оновленя";
-"At start" = "При включенні";
+"Check for updates" = "Перевіряти оновлення";
+"At start" = "При запуску";
 "Once per day" = "Раз на день";
 "Once per week" = "Раз на тиждень";
 "Once per month" = "Раз на місяць";
 "Never" = "Ніколи";
-"Check for update" = "Перевірити оновленя";
-"Show icon in dock" = "Показувати іконку в dock";
-"Start at login" = "Запускати при логуванні";
+"Check for update" = "Перевірити оновлення";
+"Show icon in dock" = "Показувати іконку в Dock";
+"Start at login" = "Запускати при вході";
 "Build number" = "Номер збірки";
 "Import settings" = "Імпорт налаштувань";
 "Export settings" = "Експорт налаштувань";
@@ -166,7 +166,7 @@
 "Combined details" = "Комбіновані деталі";
 "Spacing" = "Інтервал";
 "Share anonymous telemetry" = "Ділитись анонімною телеметрією";
-"Choose file" = "Виберіть файл";
+"Choose file" = "Вибрати файл";
 "Stress tests" = "Стрес-тести";
 
 // Dashboard
@@ -178,7 +178,7 @@
 "Number of threads" = "%0 потоків";
 "Number of e-cores" = "%0 енергоефективних ядер";
 "Number of p-cores" = "%0 високопродуктивних ядер";
-"Number of s-cores" = "%0 супер ядер";
+"Number of s-cores" = "%0 супер-ядер";
 "Disks" = "Диски";
 "Display" = "Монітор";
 
@@ -190,14 +190,14 @@
 
 // Widgets
 "Color" = "Колір";
-"Label" = "Етикетка";
-"Box" = "Коробка"; // translategemma:4b
+"Label" = "Мітка";
+"Box" = "Фон";
 "Frame" = "Рамка";
 "Value" = "Значення";
 "Colorize" = "Розфарбувати";
 "Colorize value" = "Розфарбувати значення";
 "Additional information" = "Додаткова інформація";
-"Reverse values order" = "Змінити порядок сортування";
+"Reverse values order" = "Зворотній порядок значень";
 "Base" = "Основа";
 "Display mode" = "Режим відображення";
 "One row" = "Один ряд";
@@ -217,13 +217,13 @@
 "Text widget" = "Текст";
 "Battery details widget" = "Віджет даних про акумулятор";
 "Show symbols" = "Показати символи";
-"Label widget" = "Етикетка";
+"Label widget" = "Мітка";
 "Number of reads in the chart" = "Кількість зчитувань на діаграмі";
 "Color of download" = "Колір завантаження";
 "Color of upload" = "Колір висилання";
 "Monospaced font" = "Моноширинний шрифт";
 "Reverse order" = "Зворотній порядок";
-"Chart history" = "Тривалість діаграми";
+"Chart history" = "Історія діаграми";
 "Default color" = "За замовчуванням";
 "Transparent when no activity" = "Прозорий коли немає активності";
 "Constant color" = "Постійний";
@@ -231,7 +231,7 @@
 
 // Module Kit
 "Open module settings" = "Відкрити налаштування модуля";
-"Select widget" = "Активувати %0 віджет";
+"Select widget" = "Вибрати віджет %0";
 "Open widget settings" = "Відкрити налаштування віджета";
 "Update interval" = "Інтервал оновлень";
 "Usage history" = "Історія використання";
@@ -240,20 +240,20 @@
 "Pictogram" = "Піктограма";
 "Module" = "Модуль";
 "Widgets" = "Віджети";
-"Popup" = "Спливаюче віконо";
-"Notifications" = "Cповіщення";
+"Popup" = "Спливаюче вікно";
+"Notifications" = "Сповіщення";
 "Merge widgets" = "Об’єднайти віджети";
 "No available widgets to configure" = "Немає доступних віджетів для налаштування";
 "No options to configure for the popup in this module" = "У цьому модулі немає параметрів для налаштування спливаючого вікна";
 "Process" = "Процес";
 "Kill process" = "Завершити процес";
 "Keyboard shortcut" = "Комбінація клавіш";
-"Listening..." = "Слухаю...";
+"Listening..." = "Очікування...";
 
 // Modules
 "Number of top processes" = "Кількість процесів";
 "Update interval for top processes" = "Інтервал оновлення для процесів";
-"Notification level" = "Рівень сповіщення";
+"Notification level" = "Рівень сповіщень";
 "Chart color" = "Колір діаграми";
 "Main chart scaling" = "Масштабування основної діаграми";
 "Scale value" = "Значення масштабування";
@@ -266,9 +266,9 @@
 "CPU frequency" = "Частота процесора";
 "System" = "Система";
 "User" = "Користувач";
-"Idle" = "Вільно";
-"Show usage per core" = "Показати використання на одне ядро";
-"Show hyper-threading cores" = "Показати Hyper-Threading ядра";
+"Idle" = "Простій";
+"Show usage per core" = "Показати використання на ядро";
+"Show hyper-threading cores" = "Показати ядра Hyper-Threading";
 "Split the value (System/User)" = "Розділити значення (Система/Користувач)";
 "Scheduler limit" = "Обмеження планувальника";
 "Speed limit" = "Обмеження швидкості";
@@ -277,7 +277,7 @@
 "5 minutes" = "5 хвилин";
 "15 minutes" = "15 хвилин";
 "CPU usage threshold" = "Поріг використання процесора";
-"CPU usage is" = "Використання процесора %0";
+"CPU usage is" = "Використання процесора: %0";
 "Efficiency cores" = "Енергоефективні ядра";
 "Performance cores" = "Високопродуктивні ядра";
 "System color" = "Системний колір";
@@ -286,49 +286,49 @@
 "Cluster grouping" = "Кластерне групування";
 "Efficiency cores color" = "Колір енергоефективних ядер";
 "Performance cores color" = "Колір високопродуктивних ядер";
-"Total load" = "Загальне використання";
-"System load" = "Використання системи";
-"User load" = "Використання користувача";
-"Efficiency cores load" = "Використання енергоефективних ядер";
-"Performance cores load" = "Використання високопродуктивних ядер";
+"Total load" = "Загальне навантаження";
+"System load" = "Навантаження системи";
+"User load" = "Навантаження користувача";
+"Efficiency cores load" = "Навантаження енергоефективних ядер";
+"Performance cores load" = "Навантаження високопродуктивних ядер";
 "All cores" = "Всі ядра";
-"Load per core" = "Навантаження на ядро"; // translategemma:4b
+"Load per core" = "Навантаження на ядро";
 "Efficiency core" = "Енергоефективне ядро";
 "Performance core" = "Високопродуктивне ядро";
 "Super core" = "Супер ядро";
 
 // GPU
-"GPU to show" = "Активний графічний процесор";
+"GPU to show" = "Графічний процесор для показу";
 "Show GPU type" = "Показувати тип графічного процесора";
 "GPU enabled" = "Увімкнено";
 "GPU disabled" = "Вимкнено";
 "GPU temperature" = "Температура графічного процесора";
 "GPU utilization" = "Навантаженість графічного процесора";
-"Vendor" = "Постачальник";
+"Vendor" = "Виробник";
 "Model" = "Модель";
 "Status" = "Статус";
-"Active" = "Активна";
-"Non active" = "Неактивна";
+"Active" = "Активний";
+"Non active" = "Неактивний";
 "Fan speed" = "Швидкість вентилятора";
-"Core clock" = "Частота процесора";
+"Core clock" = "Частота ядра";
 "Memory clock" = "Частота пам'яті";
 "Utilization" = "Використання";
-"Render utilization" = "Використання render";
-"Tiler utilization" = "Використання tiler";
+"Render utilization" = "Використання рендерингу";
+"Tiler utilization" = "Використання тайлера";
 "GPU usage threshold" = "Поріг використання графічного процесора";
 "GPU usage is" = "Використання графічного процесора %0";
 
 // RAM
-"Memory usage" = "Навантаженість пам’яті";
+"Memory usage" = "Використання пам’яті";
 "Memory pressure" = "Рівень навантаження";
-"Total" = "Загально";
+"Total" = "Всього";
 "Used" = "Використовується";
-"App" = "Програми";
+"App" = "Програма";
 "Wired" = "Постійна";
-"Compressed" = "Стисненна";
+"Compressed" = "Стиснена";
 "Free" = "Вільна";
 "Swap" = "Swap";
-"Split the value (App/Wired/Compressed)" = "Розділити значення (Програми/Постійна/Стисненна)";
+"Split the value (App/Wired/Compressed)" = "Розділити значення (Програма/Постійна/Стиснена)";
 "RAM utilization threshold" = "Поріг використання оперативної пам'яті";
 "RAM utilization is" = "Використання оперативної пам'яті %0";
 "App color" = "Колір програми";
@@ -356,12 +356,12 @@
 "Write speed" = "Запис";
 "Read speed" = "Зчитування";
 "Drives" = "Диски";
-"SMART data" = "SMART дані";
+"SMART data" = "Дані SMART";
 
 // Sensors
 "Temperature unit" = "Одиниця виміру температури";
-"Celsius" = "Цельсія";
-"Fahrenheit" = "Фаренгейта";
+"Celsius" = "Цельсій";
+"Fahrenheit" = "Фаренгейт";
 "Save the fan speed" = "Зберегти швидкість вентилятора";
 "Fan" = "Вентилятор";
 "HID sensors" = "HID датчики";
@@ -369,16 +369,16 @@
 "Current" = "Струм";
 "Energy" = "Енергія";
 "Show unknown sensors" = "Показати невідомі датчики";
-"Install fan helper" = "Встановити помічник для вентилятора";
-"Uninstall fan helper" = "Видалити помічник для вентилятора";
+"Install fan helper" = "Встановити модуль керування вентилятором";
+"Uninstall fan helper" = "Видалити модуль керування вентилятором";
 "Fan value" = "Значення вентилятора";
 "Turn off fan" = "Вимкнути вентилятор";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Ви збираєтеся вимкнути вентилятор. Це не рекомендована дія, яка може зламати ваш Mac. Ви впевнені, що хочете це зробити?";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Ви збираєтеся вимкнути вентилятор. Це не рекомендована дія, яка може пошкодити ваш Mac. Ви впевнені, що хочете це зробити?";
 "Sensor threshold" = "Поріг датчика";
 "Left fan" = "Лівий";
 "Right fan" = "Правий";
 "Fastest fan" = "Найшвидший";
-"Sensor to show" = "Активний датчик";
+"Sensor to show" = "Датчик для показу";
 
 // Network
 "Uploading" = "Висилання";
@@ -386,12 +386,12 @@
 "Public IP" = "Публічний IP";
 "Local IP" = "Локальний IP";
 "Interface" = "Інтерфейс";
-"Physical address" = "Фізичний адрес";
+"Physical address" = "MAC-адреса";
 "Refresh" = "Оновити";
 "Click to copy public IP address" = "Натисніть, щоб скопіювати публічний IP";
 "Click to copy local IP address" = "Натисніть, щоб скопіювати локальний IP";
-"Click to copy wifi name" = "Натисніть, щоб скопіювати назву wifi";
-"Click to copy mac address" = "Натисніть, щоб скопіювати фізичний адрес";
+"Click to copy wifi name" = "Натисніть, щоб скопіювати назву Wi-Fi";
+"Click to copy mac address" = "Натисніть, щоб скопіювати MAC-адресу";
 "No connection" = "Немає з'єднання";
 "Network interface" = "Мережевий інтерфейс";
 "Total download" = "Загально завантажено";
@@ -402,7 +402,7 @@
 "Reset data usage" = "Скинути використання даних";
 "VPN mode" = "Режим VPN";
 "Standard" = "Стандарт";
-"Security" = "Шифрування";
+"Security" = "Безпека";
 "Channel" = "Канал";
 "Common scale" = "Загальна шкала";
 "Autodetection" = "Автовизначення";
@@ -412,7 +412,7 @@
 "Nonactive state color" = "Колір неактивного стану";
 "Connectivity host" = "Хост підключення";
 "Leave empty to disable the check" = "Залиште пустим, щоб вимкнути перевірку";
-"Connectivity history" = "Історія підключення";
+"Connectivity history" = "Історія підключень";
 "Auto-refresh public IP address" = "Автоматичне оновлення IP-адреси";
 "Every hour" = "Щогодини";
 "Every 12 hours" = "Кожні 12 годин";
@@ -429,7 +429,7 @@
 "Previous IP" = "Попередня IP-адреса: %0";
 "New IP" = "Нова IP-адреса: %0";
 "Internet connection lost" = "З’єднання з інтернетом втрачено";
-"Internet connection established" = "З’єднання з інтернетом відновлено";
+"Internet connection established" = "З’єднання з інтернетом встановлено";
 "Show country code instead of emoji" = "Показувати код країни замість емодзі";
 
 // Battery
@@ -455,25 +455,25 @@
 "High level notification" = "Повідомлення про високий рівень заряду";
 "Low battery" = "Низький заряд акумулятора";
 "High battery" = "Високий заряд акумулятора";
-"Battery remaining" = "%0% залишилось";
+"Battery remaining" = "%0% залишилося";
 "Battery remaining to full charge" = "%0% до повного заряду";
-"Percentage" = "Проценти";
-"Percentage and time" = "Проценти і час";
-"Time and percentage" = "Час і проценти";
+"Percentage" = "Відсотки";
+"Percentage and time" = "Відсотки й час";
+"Time and percentage" = "Час і відсотки";
 "Time format" = "Формат часу";
 "Hide additional information when full" = "Приховати додаткову інформацію, якщо акумулятор заряджений";
 "Last charge" = "Остання зарядка";
 "Capacity" = "Ємність";
 "current / maximum / designed" = "поточна / максимальна / запроектована";
 "Low power mode" = "Режим низької потужності";
-"Percentage inside the icon" = "Відсоток всередині віджету";
+"Percentage inside the icon" = "Відсоток всередині піктограми";
 "Colorize battery" = "Розфарбувати акумулятор";
 "Charging current" = "Струм зарядки";
 "Charging Voltage" = "Напруга зарядки";
 "Charger state inside the battery" = "Стан зарядки всередині акумулятора";
 
 // Bluetooth
-"Battery to show" = "Активна батарея";
+"Battery to show" = "Батарея для показу";
 "No Bluetooth devices are available" = "Немає пристроїв Bluetooth";
 
 // Clock
@@ -485,7 +485,7 @@
 "Add new clock" = "Додати новий годинник";
 "Delete selected clock" = "Видалити вибраний годинник";
 "Help with datetime format" = "Довідка з форматом дати й часу";
-"Sync with NTP server" = "Синхронізація з сервером NTP"; // translategemma:4b
+"Sync with NTP server" = "Синхронізація з сервером NTP";
 
 // Colors
 "Based on utilization" = "На основі використання";
@@ -503,7 +503,7 @@
 "Red" = "Червоний";
 "Second red" = "Інший червоний";
 "Green" = "Зелений";
-"Second green" = "Червоний зелений";
+"Second green" = "Інший зелений";
 "Blue" = "Блакитний";
 "Second blue" = "Інший блакитний";
 "Yellow" = "Жовтий";
@@ -514,8 +514,8 @@
 "Second purple" = "Інший фіолетовий";
 "Brown" = "Коричневий";
 "Second brown" = "Інший коричневий";
-"Cyan" = "Циан";
+"Cyan" = "Ціан";
 "Magenta" = "Пурпуровий";
 "Pink" = "Рожевий";
-"Teal" = "Чиряковий";
+"Teal" = "Бірюзовий";
 "Indigo" = "Індіго";

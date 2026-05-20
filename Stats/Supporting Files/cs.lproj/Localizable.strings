@@ -10,9 +10,9 @@
 //
 
 // Modules
-"CPU" = "Procesor"; // translategemma:4b
+"CPU" = "Procesor";
 "Open CPU settings" = "Otevřít nastavení CPU";
-"GPU" = "Grafická karta"; // translategemma:4b
+"GPU" = "Grafická karta";
 "Open GPU settings" = "Otevřít nastavení GPU";
 "RAM" = "RAM";
 "Open RAM settings" = "Otevřít nastavení RAM";
@@ -25,9 +25,9 @@
 "Battery" = "Baterie";
 "Open Battery settings" = "Otevřít nastavení baterie";
 "Bluetooth" = "Bluetooth";
-"Open Bluetooth settings" = "Otevřít nastavení bluetooth";
-"Clock" = "Hodiny"; // translategemma:4b
-"Open Clock settings" = "Otevřít nastavení času"; // translategemma:4b
+"Open Bluetooth settings" = "Otevřít nastavení Bluetooth";
+"Clock" = "Hodiny";
+"Open Clock settings" = "Otevřít nastavení času";
 
 // Words
 "Unknown" = "Neznámý";
@@ -53,12 +53,12 @@
 "Statistics" = "Statistiky";
 "Max" = "Max";
 "Min" = "Min";
-"Reset" = "Reset";
+"Reset" = "Obnovit";
 "Alignment" = "Zarovnání";
 "Left alignment" = "Zarovnat doleva";
 "Center alignment" = "Zarovnat na střed";
 "Right alignment" = "Zarovnat doprava";
-"Dashboard" = "Přehled"; // translategemma:4b
+"Dashboard" = "Přehled";
 "Enabled" = "Povoleno";
 "Disabled" = "Zakázáno";
 "Silent" = "Tichý";
@@ -69,38 +69,38 @@
 "Square" = "Čtvercový";
 "Cube" = "Kubický";
 "Logarithmic" = "Logaritmický";
-"Fixed scale" = "Opraveno"; // translategemma:4b
+"Fixed scale" = "Pevné";
 "Cores" = "Jádra";
-"Core" = "Základní"; // translategemma:4b
+"Core" = "Jádro";
 "Settings" = "Nastavení";
-"Name" = "Jméno"; // translategemma:4b
-"Format" = "Formát"; // translategemma:4b
-"Turn off" = "Vypnout"; // translategemma:4b
-"Normal" = "Normální"; // translategemma:4b
-"Warning" = "Varování"; // translategemma:4b
-"Critical" = "Kritický"; // translategemma:4b
-"Usage" = "Použití"; // translategemma:4b
-"2 minutes" = "2 minuty"; // translategemma:4b
-"3 minutes" = "3 minuty"; // translategemma:4b
-"10 minutes" = "10 minut"; // translategemma:4b
-"Import" = "Import";
-"Export" = "Export";
-"Separator" = "Oddělovač"; // translategemma:4b
-"Read" = "Přečtěte"; // translategemma:4b
-"Write" = "Napište"; // translategemma:4b
-"Frequency" = "Frekvence"; // translategemma:4b
-"Save" = "Uložit"; // translategemma:4b
-"Run" = "Spustit"; // translategemma:4b
-"Stop" = "Zastav"; // translategemma:4b
-"Uninstall" = "Odinstalovat"; // translategemma:4b
-"1 sec" = "1 sekunda"; // translategemma:4b
-"2 sec" = "2 sekundy"; // translategemma:4b
-"3 sec" = "3 sekundy"; // translategemma:4b
-"5 sec" = "5 sekund"; // translategemma:4b
-"10 sec" = "10 sekund"; // translategemma:4b
-"15 sec" = "15 sekund"; // translategemma:4b
-"30 sec" = "30 sekund"; // translategemma:4b
-"60 sec" = "60 sekund"; // translategemma:4b
+"Name" = "Jméno";
+"Format" = "Formát";
+"Turn off" = "Vypnout";
+"Normal" = "Normální";
+"Warning" = "Varování";
+"Critical" = "Kritický";
+"Usage" = "Použití";
+"2 minutes" = "2 minuty";
+"3 minutes" = "3 minuty";
+"10 minutes" = "10 minut";
+"Import" = "Importovat";
+"Export" = "Exportovat";
+"Separator" = "Oddělovač";
+"Read" = "Čtení";
+"Write" = "Zápis";
+"Frequency" = "Frekvence";
+"Save" = "Uložit";
+"Run" = "Spustit";
+"Stop" = "Zastavit";
+"Uninstall" = "Odinstalovat";
+"1 sec" = "1 sekunda";
+"2 sec" = "2 sekundy";
+"3 sec" = "3 sekundy";
+"5 sec" = "5 sekund";
+"10 sec" = "10 sekund";
+"15 sec" = "15 sekund";
+"30 sec" = "30 sekund";
+"60 sec" = "60 sekund";
 
 // Setup
 "Stats Setup" = "Nastavení Stats";
@@ -111,28 +111,28 @@
 "Finish" = "Dokončit";
 "Finish setup" = "Dokončit nastavení";
 "Welcome to Stats" = "Vítejte ve Stats";
-"welcome_message" = "Děkujeme, že používáte Stats, bezplatný open source monitor systému macOS pro nástrojovou lištu.";
+"welcome_message" = "Děkujeme, že používáte Stats, bezplatný open source monitor systému macOS pro lištu nabídek.";
 "Start the application automatically when starting your Mac" = "Automatické spuštění aplikace při startu počítače Mac";
-"Do not start the application automatically when starting your Mac" = "Nespouštějte aplikaci automaticky při spuštění Macu";
+"Do not start the application automatically when starting your Mac" = "Nespouštět aplikaci automaticky při zapnutí Macu";
 "Do everything silently in the background (recommended)" = "Provádět vše tiše na pozadí (doporučeno)";
 "Check for a new version on startup" = "Kontrola nové verze při spuštění";
 "Check for a new version every day (once a day)" = "Kontrola nové verze každý den (jednou denně)";
 "Check for a new version every week (once a week)" = "Kontrola nové verze každý týden (jednou týdně)";
 "Check for a new version every month (once a month)" = "Kontrola nové verze každý měsíc (jednou měsíčně)";
 "Never check for updates (not recommended)" = "Nikdy nekontrolovat aktualizace (nedoporučuje se)";
-"Anonymous telemetry for better development decisions" = "Anonymizovaná telemetrie pro lepší rozhodování při vývoji"; // translategemma:4b
-"Share anonymous telemetry data" = "Sdílet anonymizovaná telemetrická data"; // translategemma:4b
-"Do not share anonymous telemetry data" = "Neposkytujte anonymizovaná telemetrická data."; // translategemma:4b
+"Anonymous telemetry for better development decisions" = "Anonymizovaná telemetrie pro lepší rozhodování při vývoji";
+"Share anonymous telemetry data" = "Sdílet anonymizovaná telemetrická data";
+"Do not share anonymous telemetry data" = "Neposkytovat anonymizovaná telemetrická data";
 "The configuration is completed" = "Konfigurace je dokončena";
-"finish_setup_message" = "Vše je připraveno! \n Statistiky jsou open source nástroj, který je zdarma a vždy bude. \n Pokud se vám líbí, můžete projekt podpořit, vždy se to cení!";
+"finish_setup_message" = "Vše je připraveno! \n Stats je open source nástroj, který je zdarma a vždy bude. \n Pokud se vám líbí, můžete projekt podpořit, každá podpora je vítána!";
 
 // Alerts
 "New version available" = "Nová verze k dispozici";
 "Click to install the new version of Stats" = "Klikněte pro instalaci nové verze Stats";
 "Successfully updated" = "Úspěšně aktualizováno";
-"Stats was updated to v" = "Stats byly aktualizovány na v%0";
-"Reset settings text" = "Všechna nastavení aplikace budou resetována a aplikace bude restartována. Jste si jisti, že to chcete udělat?";
-"Support text" = "Děkujeme, že používáte Stats!\n\n Udržování a zlepšování tohoto open-source projektu vyžaduje čas a zdroje. Vaše podpora nám pomáhá nadále poskytovat bezplatnou a spolehlivou aplikaci pro každého.\n\nPokud vám Stats pomáhají, zvažte prosím možnost přispět. Každý malý kousek pomůže!";
+"Stats was updated to v" = "Stats byl aktualizován na v%0";
+"Reset settings text" = "Všechna nastavení aplikace budou resetovány a aplikace bude restartována. Jste si jisti, že to chcete udělat?";
+"Support text" = "Děkujeme, že používáte Stats!\n\n Udržování a zlepšování tohoto open-source projektu vyžaduje čas a zdroje. Vaše podpora nám pomáhá nadále poskytovat bezplatnou a spolehlivou aplikaci pro každého.\n\nPokud vám Stats pomáhá, zvažte prosím možnost přispět. Každý příspěvek se počítá!";
 
 // Settings
 "Open Activity Monitor" = "Otevřít Monitor aktivity";
@@ -140,10 +140,10 @@
 "Support the application" = "Podpořte aplikaci";
 "Close application" = "Zavřít aplikaci";
 "Open application settings" = "Otevřít nastavení aplikace";
-"Open dashboard" = "Otevřít dashboard";
-"No notifications available in this module" = "V tomto modulu nejsou k dispozici žádné upozornění."; // translategemma:4b
-"Open Calendar" = "Otevřít kalendář"; // translategemma:4b
-"Toggle the module" = "Povolte modul"; // translategemma:4b
+"Open dashboard" = "Otevřít přehled";
+"No notifications available in this module" = "V tomto modulu nejsou k dispozici žádné upozornění";
+"Open Calendar" = "Otevřít kalendář";
+"Toggle the module" = "Přepnout modul";
 
 // Application settings
 "Update application" = "Aktualizovat aplikaci";
@@ -157,33 +157,33 @@
 "Show icon in dock" = "Zobrazovat ikonu v Docku";
 "Start at login" = "Spustit po přihlášení";
 "Build number" = "Číslo sestavení";
-"Import settings" = "Nastavení importu"; // translategemma:4b
-"Export settings" = "Nastavení exportu"; // translategemma:4b
+"Import settings" = "Importovat nastavení";
+"Export settings" = "Exportovat nastavení";
 "Reset settings" = "Obnovit nastavení";
 "Pause the Stats" = "Pozastavit Stats";
 "Resume the Stats" = "Obnovit Stats";
 "Combined modules" = "Kombinace modulů";
-"Combined details" = "Souhrn údajů"; // translategemma:4b
+"Combined details" = "Souhrn údajů";
 "Spacing" = "Odsazení";
-"Share anonymous telemetry" = "Sdílejte anonymizovaná telemetrická data"; // translategemma:4b
-"Choose file" = "Vyberte soubor"; // translategemma:4b
-"Stress tests" = "Testy zatížení"; // translategemma:4b
+"Share anonymous telemetry" = "Sdílet anonymizovaná telemetrická data";
+"Choose file" = "Vybrat soubor";
+"Stress tests" = "Testy zatížení";
 
 // Dashboard
 "Serial number" = "Sériové číslo";
-"Model identifier" = "Identifikátor modelu"; // translategemma:4b
-"Production year" = "Rok výroby"; // translategemma:4b
-"Uptime" = "Spuštěno";
+"Model identifier" = "Identifikátor modelu";
+"Production year" = "Rok výroby";
+"Uptime" = "Doba běhu";
 "Number of cores" = "%0 jader";
 "Number of threads" = "%0 vláken";
-"Number of e-cores" = "%0 efektivních jader";
+"Number of e-cores" = "%0 úsporných jader";
 "Number of p-cores" = "%0 výkonných jader";
-"Number of s-cores" = "%0 vynikající jádra"; // translategemma:4b
-"Disks" = "Disky"; // translategemma:4b
-"Display" = "Zobrazení"; // translategemma:4b
+"Number of s-cores" = "%0 super jader";
+"Disks" = "Disky";
+"Display" = "Zobrazení";
 
 // Update
-"The latest version of Stats installed" = "Byla nainstalována nejnovější verze Stats";
+"The latest version of Stats installed" = "Je nainstalována nejnovější verze Stats";
 "Downloading..." = "Stahování...";
 "Current version: " = "Aktuální verze: ";
 "Latest version: " = "Nejnovější verze: ";
@@ -209,24 +209,24 @@
 "Network chart widget" = "Síťový graf";
 "Speed widget" = "Rychlost";
 "Battery widget" = "Baterie";
-"Stack widget" = "Stav"; // translategemma:4b
+"Stack widget" = "Stav";
 "Memory widget" = "Paměť";
 "Static width" = "Statická šířka";
 "Tachometer widget" = "Tachometr";
 "State widget" = "Stav";
-"Text widget" = "Prvek pro zobrazení textu"; // translategemma:4b
-"Battery details widget" = "Widget s informacemi o baterii"; // translategemma:4b
+"Text widget" = "Textový widget";
+"Battery details widget" = "Podrobnosti baterie";
 "Show symbols" = "Zobrazit symboly";
 "Label widget" = "Popisek";
 "Number of reads in the chart" = "Počet čtení v grafu";
 "Color of download" = "Barva stahování";
 "Color of upload" = "Barva nahrávání";
-"Monospaced font" = "Font s pevnou šířkou znaků"; // translategemma:4b
-"Reverse order" = "Způsob obrácený"; // translategemma:4b
-"Chart history" = "Historie grafu"; // translategemma:4b
-"Default color" = "Výchozí"; // translategemma:4b
-"Transparent when no activity" = "Průhledný, když není žádná aktivita"; // translategemma:4b
-"Constant color" = "Konstantní"; // translategemma:4b
+"Monospaced font" = "Font s pevnou šířkou znaků";
+"Reverse order" = "Obrácené pořadí";
+"Chart history" = "Historie grafu";
+"Default color" = "Výchozí";
+"Transparent when no activity" = "Průhledný, když není žádná aktivita";
+"Constant color" = "Konstantní";
 "Custom..." = "Vlastní...";
 
 // Module Kit
@@ -234,40 +234,40 @@
 "Select widget" = "Vyber widget %0";
 "Open widget settings" = "Otevřít nastavení widgetu";
 "Update interval" = "Interval aktualizace";
-"Usage history" = "Historie použití";
+"Usage history" = "Historie využití";
 "Details" = "Detaily";
-"Top processes" = "První procesy";
+"Top processes" = "Nejaktivnější procesy";
 "Pictogram" = "Piktogram";
 "Module" = "Modul";
 "Widgets" = "Widgety";
-"Popup" = "Vyskakovat";
+"Popup" = "Vyskakovací okno";
 "Notifications" = "Oznámení";
 "Merge widgets" = "Sloučit widgety";
 "No available widgets to configure" = "Žádné dostupné widgety ke konfiguraci";
-"No options to configure for the popup in this module" = "Žádné dostupné konfigurace vyskakovacího okna tohoto modulu";
-"Process" = "Proces"; // translategemma:4b
-"Kill process" = "Zastavit proces"; // translategemma:4b
-"Keyboard shortcut" = "Klávesové zkratky"; // translategemma:4b
-"Listening..." = "Poslouchám..."; // translategemma:4b
+"No options to configure for the popup in this module" = "Žádné možnosti konfigurace vyskakovacího okna v tomto modulu";
+"Process" = "Proces";
+"Kill process" = "Zastavit proces";
+"Keyboard shortcut" = "Klávesové zkratky";
+"Listening..." = "Poslouchám...";
 
 // Modules
-"Number of top processes" = "Počet prvních procesů";
-"Update interval for top processes" = "Interval aktualizace pro první procesy";
+"Number of top processes" = "Počet nejaktivnějších procesů";
+"Update interval for top processes" = "Interval aktualizace nejaktivnějších procesů";
 "Notification level" = "Úroveň oznámení";
 "Chart color" = "Barva grafu";
-"Main chart scaling" = "Hlavní škálování grafu"; // translategemma:4b
-"Scale value" = "Hodnota měřítka"; // translategemma:4b
-"Text widget value" = "Hodnota widgetu textu"; // translategemma:4b
-"Combined processes" = "Spojené procesy"; // translategemma:4b
+"Main chart scaling" = "Hlavní škálování grafu";
+"Scale value" = "Hodnota měřítka";
+"Text widget value" = "Hodnota textového widgetu";
+"Combined processes" = "Spojené procesy";
 
 // CPU
-"CPU usage" = "Použití CPU";
+"CPU usage" = "Využití CPU";
 "CPU temperature" = "Teplota CPU";
 "CPU frequency" = "Frekvence CPU";
 "System" = "Systém";
 "User" = "Uživatel";
 "Idle" = "Nečinný";
-"Show usage per core" = "Zobrazit použití po jádrech";
+"Show usage per core" = "Zobrazit využití po jádrech";
 "Show hyper-threading cores" = "Zobrazit jádra hyper-threading";
 "Split the value (System/User)" = "Rozdělit hodnotu (Systém/Uživatel)";
 "Scheduler limit" = "Omezení plánovače";
@@ -277,25 +277,25 @@
 "5 minutes" = "5 minut";
 "15 minutes" = "15 minut";
 "CPU usage threshold" = "Prahová hodnota využití CPU";
-"CPU usage is" = "Využití procesoru je %0";
-"Efficiency cores" = "Efektivní jádra";
+"CPU usage is" = "Využití CPU je %0";
+"Efficiency cores" = "Úsporná jádra";
 "Performance cores" = "Výkonná jádra";
 "System color" = "Systémová barva";
 "User color" = "Barva uživatele";
 "Idle color" = "Barva nečinnosti";
 "Cluster grouping" = "Seskupení klastrů";
-"Efficiency cores color" = "Efektivní jádra – barva"; // translategemma:4b
-"Performance cores color" = "Barva výkonových jader"; // translategemma:4b
-"Total load" = "Celková zátěž"; // translategemma:4b
-"System load" = "Zátěž systému"; // translategemma:4b
-"User load" = "Zátěž uživatele"; // translategemma:4b
-"Efficiency cores load" = "Procesory pro efektivní zpracování jsou načítány."; // translategemma:4b
-"Performance cores load" = "Načítání výkonových jader"; // translategemma:4b
-"All cores" = "Všechny jádra"; // translategemma:4b
-"Load per core" = "Na jedno jádro"; // translategemma:4b
-"Efficiency core" = "Základní principy efektivity"; // translategemma:4b
-"Performance core" = "Základní výkonnostní komponenta"; // translategemma:4b
-"Super core" = "Vynikající základ"; // translategemma:4b
+"Efficiency cores color" = "Barva úsporných jader";
+"Performance cores color" = "Barva výkonových jader";
+"Total load" = "Celková zátěž";
+"System load" = "Zátěž systému";
+"User load" = "Zátěž uživatele";
+"Efficiency cores load" = "Zátěž úsporných jader";
+"Performance cores load" = "Zátěž výkonných jader";
+"All cores" = "Všechna jádra";
+"Load per core" = "Zátěž na jádro";
+"Efficiency core" = "Úsporné jádro";
+"Performance core" = "Výkonné jádro";
+"Super core" = "Super jádro";
 
 // GPU
 "GPU to show" = "GPU k zobrazení";
@@ -304,17 +304,17 @@
 "GPU disabled" = "GPU deaktivováno";
 "GPU temperature" = "Teplota GPU";
 "GPU utilization" = "Využití GPU";
-"Vendor" = "Prodejce";
+"Vendor" = "Výrobce";
 "Model" = "Model";
-"Status" = "Stav"; // translategemma:4b
+"Status" = "Stav";
 "Active" = "Aktivní";
 "Non active" = "Neaktivní";
 "Fan speed" = "Rychlost ventilátoru";
 "Core clock" = "Takt jádra";
-"Memory clock" = "Takt pamětí";
+"Memory clock" = "Takt paměti";
 "Utilization" = "Využití";
 "Render utilization" = "Využití vykreslování";
-"Tiler utilization" = "Využití tilingu";
+"Tiler utilization" = "Využití tileru";
 "GPU usage threshold" = "Prahová hodnota využití GPU";
 "GPU usage is" = "Využití GPU je %0";
 
@@ -323,21 +323,21 @@
 "Memory pressure" = "Zatížení paměti";
 "Total" = "Celkem";
 "Used" = "Využitá";
-"App" = "Aplikační";
+"App" = "Aplikace";
 "Wired" = "Pevná";
-"Compressed" = "Komprese";
+"Compressed" = "Komprimovaná";
 "Free" = "Volná";
-"Swap" = "Odkládací";
-"Split the value (App/Wired/Compressed)" = "Rozdělit hodnotu (Aplikační/Pevná/Komprese)";
+"Swap" = "Swap";
+"Split the value (App/Wired/Compressed)" = "Rozdělit hodnotu (Aplikace/Pevná/Komprimovaná)";
 "RAM utilization threshold" = "Prahová hodnota využití paměti";
 "RAM utilization is" = "Využití paměti je %0";
 "App color" = "Barva aplikační paměti";
 "Wired color" = "Barva pevné paměti";
-"Compressed color" = "Barva kompresované paměti";
+"Compressed color" = "Barva komprimované paměti";
 "Free color" = "Barva volné paměti";
-"Free memory (less than)" = "Volná paměť (méně než)"; // translategemma:4b
-"Swap size" = "Velikost paměti pro výměnu"; // translategemma:4b
-"Free RAM is" = "Volná RAM je %0"; // translategemma:4b
+"Free memory (less than)" = "Volná paměť (méně než)";
+"Swap size" = "Velikost swapu";
+"Free RAM is" = "Volná RAM je %0";
 
 // Disk
 "Show removable disks" = "Zobrazovat vyměnitelné disky";
@@ -348,19 +348,19 @@
 "Switch view" = "Přepnout pohled";
 "Disk utilization threshold" = "Prahová hodnota využití disku";
 "Disk utilization is" = "Využití disku je %0";
-"Read color" = "Přečtěte si informace o barvách"; // translategemma:4b
-"Write color" = "Napište barvu"; // translategemma:4b
-"Disk usage" = "Použití disku"; // translategemma:4b
-"Total read" = "Celkový počet přečtených dat"; // translategemma:4b
-"Total written" = "Celkem napsáno"; // translategemma:4b
-"Write speed" = "Napište"; // translategemma:4b
-"Read speed" = "Přečtěte"; // translategemma:4b
-"Drives" = "Řídící jednotky"; // translategemma:4b
-"SMART data" = "Data SMART"; // translategemma:4b
+"Read color" = "Barva čtení";
+"Write color" = "Barva zápisu";
+"Disk usage" = "Použití disku";
+"Total read" = "Celkem přečteno";
+"Total written" = "Celkem zapsáno";
+"Write speed" = "Zápis";
+"Read speed" = "Čtení";
+"Drives" = "Jednotky";
+"SMART data" = "Data SMART";
 
 // Sensors
 "Temperature unit" = "Jednotka teploty";
-"Celsius" = "Celcius"; // translategemma:4b
+"Celsius" = "Celcius";
 "Fahrenheit" = "Fahrenheit";
 "Save the fan speed" = "Uložit rychlost ventilátoru";
 "Fan" = "Ventilátor";
@@ -368,17 +368,17 @@
 "Synchronize fan's control" = "Synchronizace ovládání ventilátoru";
 "Current" = "Proud";
 "Energy" = "Energie";
-"Show unknown sensors" = "Zobrazit neznáme senzory";
-"Install fan helper" = "Nainstalovat pomocnou aplikaci ovládání ventilátorů";
-"Uninstall fan helper" = "Odinstalovat pomocnou aplikaci ventilátorů";
+"Show unknown sensors" = "Zobrazit neznámé senzory";
+"Install fan helper" = "Nainstalovat pomocníka ventilátorů";
+"Uninstall fan helper" = "Odinstalovat pomocníka ventilátorů";
 "Fan value" = "Hodnota ventilátoru";
-"Turn off fan" = "Vypněte ventilátor"; // translategemma:4b
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Budete vypínat ventilátor. Toto není doporučená akce, která může poškodit váš Mac. Jste si jisti, že to chcete udělat?"; // translategemma:4b
-"Sensor threshold" = "Hranice senzoru"; // translategemma:4b
-"Left fan" = "Vlevo"; // translategemma:4b
-"Right fan" = "Správně"; // translategemma:4b
-"Fastest fan" = "Nejrychlejší"; // translategemma:4b
-"Sensor to show" = "Senzor zobrazuje"; // translategemma:4b
+"Turn off fan" = "Vypnout ventilátor";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "Chystáte se vypnout ventilátor. Toto není doporučená akce, která může poškodit váš Mac. Jste si jisti, že to chcete udělat?";
+"Sensor threshold" = "Hranice senzoru";
+"Left fan" = "Levý";
+"Right fan" = "Pravý";
+"Fastest fan" = "Nejrychlejší";
+"Sensor to show" = "Senzor k zobrazení";
 
 // Network
 "Uploading" = "Nahrávání";
@@ -390,13 +390,13 @@
 "Refresh" = "Obnovit";
 "Click to copy public IP address" = "Klikněte pro zkopírování veřejné IP adresy";
 "Click to copy local IP address" = "Klikněte pro zkopírování místní IP adresy";
-"Click to copy wifi name" = "Klikněte pro zkopírování názvu wifi";
+"Click to copy wifi name" = "Klikněte pro zkopírování názvu Wi-Fi";
 "Click to copy mac address" = "Klikněte pro zkopírování MAC adresy";
 "No connection" = "Žádné připojení";
 "Network interface" = "Síťové rozhraní";
 "Total download" = "Celkem staženo";
 "Total upload" = "Celkem nahráno";
-"Reader type" = "Typ přehledu";
+"Reader type" = "Typ zdroje dat";
 "Interface based" = "Podle rozhraní";
 "Processes based" = "Podle procesů";
 "Reset data usage" = "Resetovat využití dat";
@@ -412,25 +412,25 @@
 "Nonactive state color" = "Barva neaktivního stavu";
 "Connectivity host" = "Hostitel připojení";
 "Leave empty to disable the check" = "Pro vypnutí kontroly ponechte prázdné pole";
-"Connectivity history" = "Historie připojení"; // translategemma:4b
-"Auto-refresh public IP address" = "Automatické obnovení veřejné IP adresy"; // translategemma:4b
-"Every hour" = "Každou hodinu"; // translategemma:4b
-"Every 12 hours" = "Každých 12 hodin"; // translategemma:4b
-"Every 24 hours" = "Každých 24 hodin"; // translategemma:4b
-"Network activity" = "Aktivita sítě"; // translategemma:4b
-"Last reset" = "Poslední reset před %0 dny"; // translategemma:4b
-"Latency" = "Latence"; // translategemma:4b
-"Upload speed" = "Nahrazení"; // translategemma:4b
-"Download speed" = "Stáhnout"; // translategemma:4b
-"Address" = "Adresa"; // translategemma:4b
-"WiFi network" = "Síť Wi-Fi"; // translategemma:4b
-"Local IP changed" = "Lokální IP adresa se změnila."; // translategemma:4b
-"Public IP changed" = "Veřejná IP adresa se změnila."; // translategemma:4b
-"Previous IP" = "Předchozí IP: %0"; // translategemma:4b
-"New IP" = "Nová IP adresa: %0"; // translategemma:4b
-"Internet connection lost" = "Přerušeno připojení k internetu"; // translategemma:4b
-"Internet connection established" = "Připojení k internetu zřízeno"; // translategemma:4b
-"Show country code instead of emoji" = "Zobrazte kód země místo emoji."; // translategemma:4b
+"Connectivity history" = "Historie připojení";
+"Auto-refresh public IP address" = "Automatické obnovení veřejné IP adresy";
+"Every hour" = "Každou hodinu";
+"Every 12 hours" = "Každých 12 hodin";
+"Every 24 hours" = "Každých 24 hodin";
+"Network activity" = "Aktivita sítě";
+"Last reset" = "Poslední reset: před %0";
+"Latency" = "Latence";
+"Upload speed" = "Nahrávání";
+"Download speed" = "Stahování";
+"Address" = "Adresa";
+"WiFi network" = "Síť Wi-Fi";
+"Local IP changed" = "Lokální IP adresa se změnila";
+"Public IP changed" = "Veřejná IP adresa se změnila";
+"Previous IP" = "Předchozí IP: %0";
+"New IP" = "Nová IP adresa: %0";
+"Internet connection lost" = "Přerušeno připojení k internetu";
+"Internet connection established" = "Připojení k internetu zřízeno";
+"Show country code instead of emoji" = "Zobrazit kód země místo emoji";
 
 // Battery
 "Level" = "Úroveň";
@@ -464,33 +464,33 @@
 "Hide additional information when full" = "Skrýt další informace při plném nabití";
 "Last charge" = "Poslední nabití";
 "Capacity" = "Kapacita";
-"current / maximum / designed" = "current / maximum / výrobní";
+"current / maximum / designed" = "aktuální / maximální / výrobní";
 "Low power mode" = "Režim nízké spotřeby";
 "Percentage inside the icon" = "Procento uvnitř ikony";
-"Colorize battery" = "Zbarvě baterii"; // translategemma:4b
-"Charging current" = "Proudnost nabíjení"; // translategemma:4b
-"Charging Voltage" = "Napěťová hodnota pro nabíjení"; // translategemma:4b
-"Charger state inside the battery" = "Stav nabíjení uvnitř baterie"; // translategemma:4b
+"Colorize battery" = "Zbarvit baterii";
+"Charging current" = "Nabíjecí proud";
+"Charging Voltage" = "Nabíjecí napětí";
+"Charger state inside the battery" = "Stav nabíjení uvnitř baterie";
 
 // Bluetooth
 "Battery to show" = "Baterie k zobrazení";
 "No Bluetooth devices are available" = "Žádná bluetooth zařízení nejsou k dispozici";
 
 // Clock
-"Time zone" = "Časová zóna"; // translategemma:4b
-"Local" = "Místní"; // translategemma:4b
-"Calendar" = "Kalendář"; // translategemma:4b
-"Show week numbers" = "Zobrazte čísla týdnů"; // translategemma:4b
-"Local time" = "Místní čas"; // translategemma:4b
-"Add new clock" = "Přidejte nové hodiny"; // translategemma:4b
-"Delete selected clock" = "Smaž vybrané hodiny"; // translategemma:4b
-"Help with datetime format" = "Pomoc s formátováním dat a času"; // translategemma:4b
-"Sync with NTP server" = "Synchronizace s NTP serverem"; // translategemma:4b
+"Time zone" = "Časová zóna";
+"Local" = "Místní";
+"Calendar" = "Kalendář";
+"Show week numbers" = "Zobrazit čísla týdnů";
+"Local time" = "Místní čas";
+"Add new clock" = "Přidat nové hodiny";
+"Delete selected clock" = "Odstranit vybrané hodiny";
+"Help with datetime format" = "Pomoc s formátováním dat a času";
+"Sync with NTP server" = "Synchronizovat s NTP serverem";
 
 // Colors
 "Based on utilization" = "Na základě využití";
 "Based on pressure" = "Na základě tlaku";
-"Based on cluster" = "Na základě skupiny"; // translategemma:4b
+"Based on cluster" = "Na základě skupiny";
 "System accent" = "Systém";
 "Monochrome accent" = "Černobílá";
 "Clear" = "Průhledná";

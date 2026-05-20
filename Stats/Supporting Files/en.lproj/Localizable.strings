@@ -17,17 +17,17 @@
 "RAM" = "RAM";
 "Open RAM settings" = "Open RAM settings";
 "Disk" = "Disk";
-"Open Disk settings" = "Open disk settings";
+"Open Disk settings" = "Open Disk settings";
 "Sensors" = "Sensors";
-"Open Sensors settings" = "Open sensors settings";
+"Open Sensors settings" = "Open Sensors settings";
 "Network" = "Network";
-"Open Network settings" = "Open network settings";
+"Open Network settings" = "Open Network settings";
 "Battery" = "Battery";
-"Open Battery settings" = "Open battery settings";
+"Open Battery settings" = "Open Battery settings";
 "Bluetooth" = "Bluetooth";
-"Open Bluetooth settings" = "Open bluetooth settings";
+"Open Bluetooth settings" = "Open Bluetooth settings";
 "Clock" = "Clock";
-"Open Clock settings" = "Open clock settings";
+"Open Clock settings" = "Open Clock settings";
 
 // Words
 "Unknown" = "Unknown";
@@ -373,7 +373,7 @@
 "Uninstall fan helper" = "Uninstall fan helper";
 "Fan value" = "Fan value";
 "Turn off fan" = "Turn off fan";
-"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?";
+"You are going to turn off the fan. This is not recommended action that can damage your mac, are you sure you want to do that?" = "You are going to turn off the fan. This is not recommended action that can damage your Mac, are you sure you want to do that?";
 "Sensor threshold" = "Sensor threshold";
 "Left fan" = "Left";
 "Right fan" = "Right";
@@ -390,8 +390,8 @@
 "Refresh" = "Refresh";
 "Click to copy public IP address" = "Click to copy public IP address";
 "Click to copy local IP address" = "Click to copy local IP address";
-"Click to copy wifi name" = "Click to copy wifi name";
-"Click to copy mac address" = "Click to copy mac address";
+"Click to copy wifi name" = "Click to copy Wi-Fi name";
+"Click to copy mac address" = "Click to copy MAC address";
 "No connection" = "No connection";
 "Network interface" = "Network interface";
 "Total download" = "Total download";
